@@ -1,0 +1,22 @@
+[
+  {
+    "az": 1,
+    "nev": "Sousse",
+    "orszag": "Tunézia"
+  },
+  {
+    "az": 2,
+    "nev": "Djerba",
+    "orszag": "Tunézia"
+  },
+  {
+    "az": 3,
+    "nev": "Sharm El Sheikh",
+    "orszag": "Egyiptom"
+  },
+  {
+    "az": 4,
+    "nev": "Hurghada",
+    "orszag": "Egyiptom"
+  }
+]

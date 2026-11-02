@@ -1,0 +1,4106 @@
+[
+ {
+  "sorszam": 1,
+  "szalloda_az": "BS",
+  "indulas": {
+   "$date": "2011-01-05T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 244900
+ },
+ {
+  "sorszam": 2,
+  "szalloda_az": "BS",
+  "indulas": {
+   "$date": "2011-01-05T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 358900
+ },
+ {
+  "sorszam": 3,
+  "szalloda_az": "BS",
+  "indulas": {
+   "$date": "2011-01-12T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 157900
+ },
+ {
+  "sorszam": 4,
+  "szalloda_az": "BS",
+  "indulas": {
+   "$date": "2011-01-12T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 265900
+ },
+ {
+  "sorszam": 5,
+  "szalloda_az": "BS",
+  "indulas": {
+   "$date": "2011-01-19T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 157900
+ },
+ {
+  "sorszam": 6,
+  "szalloda_az": "BS",
+  "indulas": {
+   "$date": "2011-01-19T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 265900
+ },
+ {
+  "sorszam": 7,
+  "szalloda_az": "BS",
+  "indulas": {
+   "$date": "2011-01-26T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 157900
+ },
+ {
+  "sorszam": 8,
+  "szalloda_az": "BS",
+  "indulas": {
+   "$date": "2011-01-26T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 265900
+ },
+ {
+  "sorszam": 9,
+  "szalloda_az": "BS",
+  "indulas": {
+   "$date": "2011-02-02T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 157900
+ },
+ {
+  "sorszam": 10,
+  "szalloda_az": "BS",
+  "indulas": {
+   "$date": "2011-02-02T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 265900
+ },
+ {
+  "sorszam": 11,
+  "szalloda_az": "BS",
+  "indulas": {
+   "$date": "2011-02-09T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 157900
+ },
+ {
+  "sorszam": 12,
+  "szalloda_az": "BS",
+  "indulas": {
+   "$date": "2011-02-09T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 289900
+ },
+ {
+  "sorszam": 13,
+  "szalloda_az": "BS",
+  "indulas": {
+   "$date": "2011-02-16T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 176900
+ },
+ {
+  "sorszam": 14,
+  "szalloda_az": "BS",
+  "indulas": {
+   "$date": "2011-02-16T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 303900
+ },
+ {
+  "sorszam": 15,
+  "szalloda_az": "BS",
+  "indulas": {
+   "$date": "2011-02-23T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 176900
+ },
+ {
+  "sorszam": 16,
+  "szalloda_az": "BS",
+  "indulas": {
+   "$date": "2011-02-23T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 303900
+ },
+ {
+  "sorszam": 17,
+  "szalloda_az": "BS",
+  "indulas": {
+   "$date": "2011-03-02T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 176900
+ },
+ {
+  "sorszam": 18,
+  "szalloda_az": "BS",
+  "indulas": {
+   "$date": "2011-03-02T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 303900
+ },
+ {
+  "sorszam": 19,
+  "szalloda_az": "BS",
+  "indulas": {
+   "$date": "2011-03-09T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 188900
+ },
+ {
+  "sorszam": 20,
+  "szalloda_az": "BS",
+  "indulas": {
+   "$date": "2011-03-09T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 322900
+ },
+ {
+  "sorszam": 21,
+  "szalloda_az": "BS",
+  "indulas": {
+   "$date": "2011-03-16T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 188900
+ },
+ {
+  "sorszam": 22,
+  "szalloda_az": "BS",
+  "indulas": {
+   "$date": "2011-03-16T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 322900
+ },
+ {
+  "sorszam": 23,
+  "szalloda_az": "BS",
+  "indulas": {
+   "$date": "2011-03-23T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 188900
+ },
+ {
+  "sorszam": 24,
+  "szalloda_az": "BS",
+  "indulas": {
+   "$date": "2011-03-23T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 358900
+ },
+ {
+  "sorszam": 25,
+  "szalloda_az": "BS",
+  "indulas": {
+   "$date": "2011-03-30T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 230900
+ },
+ {
+  "sorszam": 26,
+  "szalloda_az": "BS",
+  "indulas": {
+   "$date": "2011-03-30T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 394900
+ },
+ {
+  "sorszam": 27,
+  "szalloda_az": "BS",
+  "indulas": {
+   "$date": "2011-04-06T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 230900
+ },
+ {
+  "sorszam": 28,
+  "szalloda_az": "BS",
+  "indulas": {
+   "$date": "2011-04-06T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 394900
+ },
+ {
+  "sorszam": 29,
+  "szalloda_az": "BS",
+  "indulas": {
+   "$date": "2011-04-13T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 230900
+ },
+ {
+  "sorszam": 30,
+  "szalloda_az": "BS",
+  "indulas": {
+   "$date": "2011-04-13T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 406900
+ },
+ {
+  "sorszam": 31,
+  "szalloda_az": "BS",
+  "indulas": {
+   "$date": "2011-04-20T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 230900
+ },
+ {
+  "sorszam": 32,
+  "szalloda_az": "BS",
+  "indulas": {
+   "$date": "2011-04-20T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 445900
+ },
+ {
+  "sorszam": 33,
+  "szalloda_az": "BS",
+  "indulas": {
+   "$date": "2011-04-27T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 268900
+ },
+ {
+  "sorszam": 34,
+  "szalloda_az": "CL",
+  "indulas": {
+   "$date": "2011-01-02T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 59900
+ },
+ {
+  "sorszam": 35,
+  "szalloda_az": "CL",
+  "indulas": {
+   "$date": "2011-01-02T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 99900
+ },
+ {
+  "sorszam": 36,
+  "szalloda_az": "CL",
+  "indulas": {
+   "$date": "2011-01-09T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 83900
+ },
+ {
+  "sorszam": 37,
+  "szalloda_az": "CL",
+  "indulas": {
+   "$date": "2011-01-09T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 124900
+ },
+ {
+  "sorszam": 38,
+  "szalloda_az": "CL",
+  "indulas": {
+   "$date": "2011-01-16T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 91900
+ },
+ {
+  "sorszam": 39,
+  "szalloda_az": "CL",
+  "indulas": {
+   "$date": "2011-01-16T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 144900
+ },
+ {
+  "sorszam": 40,
+  "szalloda_az": "CL",
+  "indulas": {
+   "$date": "2011-01-23T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 91900
+ },
+ {
+  "sorszam": 41,
+  "szalloda_az": "CL",
+  "indulas": {
+   "$date": "2011-01-23T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 144900
+ },
+ {
+  "sorszam": 42,
+  "szalloda_az": "CL",
+  "indulas": {
+   "$date": "2011-01-30T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 91900
+ },
+ {
+  "sorszam": 43,
+  "szalloda_az": "CL",
+  "indulas": {
+   "$date": "2011-01-30T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 144900
+ },
+ {
+  "sorszam": 44,
+  "szalloda_az": "CL",
+  "indulas": {
+   "$date": "2011-02-06T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 98900
+ },
+ {
+  "sorszam": 45,
+  "szalloda_az": "CL",
+  "indulas": {
+   "$date": "2011-02-06T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 144900
+ },
+ {
+  "sorszam": 46,
+  "szalloda_az": "CL",
+  "indulas": {
+   "$date": "2011-02-13T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 98900
+ },
+ {
+  "sorszam": 47,
+  "szalloda_az": "CL",
+  "indulas": {
+   "$date": "2011-02-13T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 144900
+ },
+ {
+  "sorszam": 48,
+  "szalloda_az": "CL",
+  "indulas": {
+   "$date": "2011-02-20T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 98900
+ },
+ {
+  "sorszam": 49,
+  "szalloda_az": "CL",
+  "indulas": {
+   "$date": "2011-02-20T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 147900
+ },
+ {
+  "sorszam": 50,
+  "szalloda_az": "CL",
+  "indulas": {
+   "$date": "2011-02-27T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 98900
+ },
+ {
+  "sorszam": 51,
+  "szalloda_az": "CL",
+  "indulas": {
+   "$date": "2011-02-27T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 147900
+ },
+ {
+  "sorszam": 52,
+  "szalloda_az": "CL",
+  "indulas": {
+   "$date": "2011-03-06T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 106900
+ },
+ {
+  "sorszam": 53,
+  "szalloda_az": "CL",
+  "indulas": {
+   "$date": "2011-03-06T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 157900
+ },
+ {
+  "sorszam": 54,
+  "szalloda_az": "CL",
+  "indulas": {
+   "$date": "2011-03-10T00:00:00Z"
+  },
+  "idotartam": 11,
+  "ar": 128900
+ },
+ {
+  "sorszam": 55,
+  "szalloda_az": "CL",
+  "indulas": {
+   "$date": "2011-03-13T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 106900
+ },
+ {
+  "sorszam": 56,
+  "szalloda_az": "CL",
+  "indulas": {
+   "$date": "2011-03-13T00:00:00Z"
+  },
+  "idotartam": 12,
+  "ar": 135900
+ },
+ {
+  "sorszam": 57,
+  "szalloda_az": "CL",
+  "indulas": {
+   "$date": "2011-03-13T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 157900
+ },
+ {
+  "sorszam": 58,
+  "szalloda_az": "CL",
+  "indulas": {
+   "$date": "2011-03-17T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 105900
+ },
+ {
+  "sorszam": 59,
+  "szalloda_az": "CL",
+  "indulas": {
+   "$date": "2011-03-17T00:00:00Z"
+  },
+  "idotartam": 11,
+  "ar": 128900
+ },
+ {
+  "sorszam": 60,
+  "szalloda_az": "CL",
+  "indulas": {
+   "$date": "2011-03-17T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 157900
+ },
+ {
+  "sorszam": 61,
+  "szalloda_az": "CL",
+  "indulas": {
+   "$date": "2011-03-20T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 106900
+ },
+ {
+  "sorszam": 62,
+  "szalloda_az": "CL",
+  "indulas": {
+   "$date": "2011-03-20T00:00:00Z"
+  },
+  "idotartam": 12,
+  "ar": 135900
+ },
+ {
+  "sorszam": 63,
+  "szalloda_az": "CL",
+  "indulas": {
+   "$date": "2011-03-20T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 157900
+ },
+ {
+  "sorszam": 64,
+  "szalloda_az": "CL",
+  "indulas": {
+   "$date": "2011-03-24T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 105900
+ },
+ {
+  "sorszam": 65,
+  "szalloda_az": "CL",
+  "indulas": {
+   "$date": "2011-03-24T00:00:00Z"
+  },
+  "idotartam": 11,
+  "ar": 128900
+ },
+ {
+  "sorszam": 66,
+  "szalloda_az": "CL",
+  "indulas": {
+   "$date": "2011-03-24T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 157900
+ },
+ {
+  "sorszam": 67,
+  "szalloda_az": "CL",
+  "indulas": {
+   "$date": "2011-03-27T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 106900
+ },
+ {
+  "sorszam": 68,
+  "szalloda_az": "CL",
+  "indulas": {
+   "$date": "2011-03-27T00:00:00Z"
+  },
+  "idotartam": 12,
+  "ar": 135900
+ },
+ {
+  "sorszam": 69,
+  "szalloda_az": "CL",
+  "indulas": {
+   "$date": "2011-03-27T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 157900
+ },
+ {
+  "sorszam": 70,
+  "szalloda_az": "CL",
+  "indulas": {
+   "$date": "2011-03-31T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 105900
+ },
+ {
+  "sorszam": 71,
+  "szalloda_az": "CL",
+  "indulas": {
+   "$date": "2011-03-31T00:00:00Z"
+  },
+  "idotartam": 11,
+  "ar": 128900
+ },
+ {
+  "sorszam": 72,
+  "szalloda_az": "CL",
+  "indulas": {
+   "$date": "2011-03-31T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 157900
+ },
+ {
+  "sorszam": 73,
+  "szalloda_az": "CL",
+  "indulas": {
+   "$date": "2011-04-03T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 106900
+ },
+ {
+  "sorszam": 74,
+  "szalloda_az": "CL",
+  "indulas": {
+   "$date": "2011-04-03T00:00:00Z"
+  },
+  "idotartam": 12,
+  "ar": 135900
+ },
+ {
+  "sorszam": 75,
+  "szalloda_az": "CL",
+  "indulas": {
+   "$date": "2011-04-03T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 166900
+ },
+ {
+  "sorszam": 76,
+  "szalloda_az": "CL",
+  "indulas": {
+   "$date": "2011-04-07T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 105900
+ },
+ {
+  "sorszam": 77,
+  "szalloda_az": "CL",
+  "indulas": {
+   "$date": "2011-04-07T00:00:00Z"
+  },
+  "idotartam": 11,
+  "ar": 136900
+ },
+ {
+  "sorszam": 78,
+  "szalloda_az": "CL",
+  "indulas": {
+   "$date": "2011-04-07T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 180900
+ },
+ {
+  "sorszam": 79,
+  "szalloda_az": "CL",
+  "indulas": {
+   "$date": "2011-04-10T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 114900
+ },
+ {
+  "sorszam": 80,
+  "szalloda_az": "CL",
+  "indulas": {
+   "$date": "2011-04-10T00:00:00Z"
+  },
+  "idotartam": 12,
+  "ar": 155900
+ },
+ {
+  "sorszam": 81,
+  "szalloda_az": "CL",
+  "indulas": {
+   "$date": "2011-04-10T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 181900
+ },
+ {
+  "sorszam": 82,
+  "szalloda_az": "CL",
+  "indulas": {
+   "$date": "2011-04-14T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 125900
+ },
+ {
+  "sorszam": 83,
+  "szalloda_az": "CL",
+  "indulas": {
+   "$date": "2011-04-14T00:00:00Z"
+  },
+  "idotartam": 11,
+  "ar": 150900
+ },
+ {
+  "sorszam": 84,
+  "szalloda_az": "CL",
+  "indulas": {
+   "$date": "2011-04-14T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 180900
+ },
+ {
+  "sorszam": 85,
+  "szalloda_az": "CL",
+  "indulas": {
+   "$date": "2011-04-17T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 122900
+ },
+ {
+  "sorszam": 86,
+  "szalloda_az": "CL",
+  "indulas": {
+   "$date": "2011-04-17T00:00:00Z"
+  },
+  "idotartam": 12,
+  "ar": 149900
+ },
+ {
+  "sorszam": 87,
+  "szalloda_az": "CL",
+  "indulas": {
+   "$date": "2011-04-17T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 172900
+ },
+ {
+  "sorszam": 88,
+  "szalloda_az": "CL",
+  "indulas": {
+   "$date": "2011-04-21T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 108900
+ },
+ {
+  "sorszam": 89,
+  "szalloda_az": "CL",
+  "indulas": {
+   "$date": "2011-04-21T00:00:00Z"
+  },
+  "idotartam": 11,
+  "ar": 130900
+ },
+ {
+  "sorszam": 90,
+  "szalloda_az": "CL",
+  "indulas": {
+   "$date": "2011-04-21T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 160900
+ },
+ {
+  "sorszam": 91,
+  "szalloda_az": "CL",
+  "indulas": {
+   "$date": "2011-04-24T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 106900
+ },
+ {
+  "sorszam": 92,
+  "szalloda_az": "CL",
+  "indulas": {
+   "$date": "2011-04-28T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 105900
+ },
+ {
+  "sorszam": 93,
+  "szalloda_az": "CP",
+  "indulas": {
+   "$date": "2011-01-23T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 97900
+ },
+ {
+  "sorszam": 94,
+  "szalloda_az": "CP",
+  "indulas": {
+   "$date": "2011-01-23T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 143900
+ },
+ {
+  "sorszam": 95,
+  "szalloda_az": "CP",
+  "indulas": {
+   "$date": "2011-01-30T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 97900
+ },
+ {
+  "sorszam": 96,
+  "szalloda_az": "CP",
+  "indulas": {
+   "$date": "2011-01-30T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 143900
+ },
+ {
+  "sorszam": 97,
+  "szalloda_az": "CP",
+  "indulas": {
+   "$date": "2011-02-06T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 97900
+ },
+ {
+  "sorszam": 98,
+  "szalloda_az": "CP",
+  "indulas": {
+   "$date": "2011-02-06T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 143900
+ },
+ {
+  "sorszam": 99,
+  "szalloda_az": "CP",
+  "indulas": {
+   "$date": "2011-02-13T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 97900
+ },
+ {
+  "sorszam": 100,
+  "szalloda_az": "CP",
+  "indulas": {
+   "$date": "2011-02-13T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 143900
+ },
+ {
+  "sorszam": 101,
+  "szalloda_az": "CP",
+  "indulas": {
+   "$date": "2011-02-20T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 97900
+ },
+ {
+  "sorszam": 102,
+  "szalloda_az": "CP",
+  "indulas": {
+   "$date": "2011-02-20T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 143900
+ },
+ {
+  "sorszam": 103,
+  "szalloda_az": "CP",
+  "indulas": {
+   "$date": "2011-02-27T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 97900
+ },
+ {
+  "sorszam": 104,
+  "szalloda_az": "CP",
+  "indulas": {
+   "$date": "2011-02-27T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 143900
+ },
+ {
+  "sorszam": 105,
+  "szalloda_az": "CP",
+  "indulas": {
+   "$date": "2011-03-06T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 97900
+ },
+ {
+  "sorszam": 106,
+  "szalloda_az": "CP",
+  "indulas": {
+   "$date": "2011-03-06T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 143900
+ },
+ {
+  "sorszam": 107,
+  "szalloda_az": "CP",
+  "indulas": {
+   "$date": "2011-03-13T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 97900
+ },
+ {
+  "sorszam": 108,
+  "szalloda_az": "CP",
+  "indulas": {
+   "$date": "2011-03-13T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 143900
+ },
+ {
+  "sorszam": 109,
+  "szalloda_az": "CP",
+  "indulas": {
+   "$date": "2011-03-20T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 97900
+ },
+ {
+  "sorszam": 110,
+  "szalloda_az": "CP",
+  "indulas": {
+   "$date": "2011-03-20T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 143900
+ },
+ {
+  "sorszam": 111,
+  "szalloda_az": "CP",
+  "indulas": {
+   "$date": "2011-03-27T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 97900
+ },
+ {
+  "sorszam": 112,
+  "szalloda_az": "CP",
+  "indulas": {
+   "$date": "2011-03-27T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 143900
+ },
+ {
+  "sorszam": 113,
+  "szalloda_az": "CP",
+  "indulas": {
+   "$date": "2011-04-03T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 97900
+ },
+ {
+  "sorszam": 114,
+  "szalloda_az": "CP",
+  "indulas": {
+   "$date": "2011-04-03T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 154900
+ },
+ {
+  "sorszam": 115,
+  "szalloda_az": "CP",
+  "indulas": {
+   "$date": "2011-04-10T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 104900
+ },
+ {
+  "sorszam": 116,
+  "szalloda_az": "CP",
+  "indulas": {
+   "$date": "2011-04-10T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 154900
+ },
+ {
+  "sorszam": 117,
+  "szalloda_az": "CP",
+  "indulas": {
+   "$date": "2011-04-17T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 97900
+ },
+ {
+  "sorszam": 118,
+  "szalloda_az": "CP",
+  "indulas": {
+   "$date": "2011-04-17T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 143900
+ },
+ {
+  "sorszam": 119,
+  "szalloda_az": "CP",
+  "indulas": {
+   "$date": "2011-04-24T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 97900
+ },
+ {
+  "sorszam": 120,
+  "szalloda_az": "CW",
+  "indulas": {
+   "$date": "2011-01-02T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 79900
+ },
+ {
+  "sorszam": 121,
+  "szalloda_az": "CW",
+  "indulas": {
+   "$date": "2011-01-02T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 119900
+ },
+ {
+  "sorszam": 122,
+  "szalloda_az": "CW",
+  "indulas": {
+   "$date": "2011-01-09T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 93900
+ },
+ {
+  "sorszam": 123,
+  "szalloda_az": "CW",
+  "indulas": {
+   "$date": "2011-01-09T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 142900
+ },
+ {
+  "sorszam": 124,
+  "szalloda_az": "CW",
+  "indulas": {
+   "$date": "2011-01-16T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 112900
+ },
+ {
+  "sorszam": 125,
+  "szalloda_az": "CW",
+  "indulas": {
+   "$date": "2011-01-16T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 178900
+ },
+ {
+  "sorszam": 126,
+  "szalloda_az": "CW",
+  "indulas": {
+   "$date": "2011-01-23T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 112900
+ },
+ {
+  "sorszam": 127,
+  "szalloda_az": "CW",
+  "indulas": {
+   "$date": "2011-01-23T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 178900
+ },
+ {
+  "sorszam": 128,
+  "szalloda_az": "CW",
+  "indulas": {
+   "$date": "2011-01-30T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 112900
+ },
+ {
+  "sorszam": 129,
+  "szalloda_az": "CW",
+  "indulas": {
+   "$date": "2011-01-30T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 178900
+ },
+ {
+  "sorszam": 130,
+  "szalloda_az": "CW",
+  "indulas": {
+   "$date": "2011-02-06T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 119900
+ },
+ {
+  "sorszam": 131,
+  "szalloda_az": "CW",
+  "indulas": {
+   "$date": "2011-02-06T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 188900
+ },
+ {
+  "sorszam": 132,
+  "szalloda_az": "CW",
+  "indulas": {
+   "$date": "2011-02-13T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 119900
+ },
+ {
+  "sorszam": 133,
+  "szalloda_az": "CW",
+  "indulas": {
+   "$date": "2011-02-13T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 188900
+ },
+ {
+  "sorszam": 134,
+  "szalloda_az": "CW",
+  "indulas": {
+   "$date": "2011-02-20T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 119900
+ },
+ {
+  "sorszam": 135,
+  "szalloda_az": "CW",
+  "indulas": {
+   "$date": "2011-02-20T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 188900
+ },
+ {
+  "sorszam": 136,
+  "szalloda_az": "CW",
+  "indulas": {
+   "$date": "2011-02-27T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 119900
+ },
+ {
+  "sorszam": 137,
+  "szalloda_az": "CW",
+  "indulas": {
+   "$date": "2011-02-27T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 188900
+ },
+ {
+  "sorszam": 138,
+  "szalloda_az": "CW",
+  "indulas": {
+   "$date": "2011-03-06T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 128900
+ },
+ {
+  "sorszam": 139,
+  "szalloda_az": "CW",
+  "indulas": {
+   "$date": "2011-03-06T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 200900
+ },
+ {
+  "sorszam": 140,
+  "szalloda_az": "CW",
+  "indulas": {
+   "$date": "2011-03-10T00:00:00Z"
+  },
+  "idotartam": 11,
+  "ar": 158900
+ },
+ {
+  "sorszam": 141,
+  "szalloda_az": "CW",
+  "indulas": {
+   "$date": "2011-03-13T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 128900
+ },
+ {
+  "sorszam": 142,
+  "szalloda_az": "CW",
+  "indulas": {
+   "$date": "2011-03-13T00:00:00Z"
+  },
+  "idotartam": 12,
+  "ar": 169900
+ },
+ {
+  "sorszam": 143,
+  "szalloda_az": "CW",
+  "indulas": {
+   "$date": "2011-03-13T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 200900
+ },
+ {
+  "sorszam": 144,
+  "szalloda_az": "CW",
+  "indulas": {
+   "$date": "2011-03-17T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 127900
+ },
+ {
+  "sorszam": 145,
+  "szalloda_az": "CW",
+  "indulas": {
+   "$date": "2011-03-17T00:00:00Z"
+  },
+  "idotartam": 11,
+  "ar": 158900
+ },
+ {
+  "sorszam": 146,
+  "szalloda_az": "CW",
+  "indulas": {
+   "$date": "2011-03-17T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 200900
+ },
+ {
+  "sorszam": 147,
+  "szalloda_az": "CW",
+  "indulas": {
+   "$date": "2011-03-20T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 128900
+ },
+ {
+  "sorszam": 148,
+  "szalloda_az": "CW",
+  "indulas": {
+   "$date": "2011-03-20T00:00:00Z"
+  },
+  "idotartam": 12,
+  "ar": 169900
+ },
+ {
+  "sorszam": 149,
+  "szalloda_az": "CW",
+  "indulas": {
+   "$date": "2011-03-20T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 200900
+ },
+ {
+  "sorszam": 150,
+  "szalloda_az": "CW",
+  "indulas": {
+   "$date": "2011-03-24T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 127900
+ },
+ {
+  "sorszam": 151,
+  "szalloda_az": "CW",
+  "indulas": {
+   "$date": "2011-03-24T00:00:00Z"
+  },
+  "idotartam": 11,
+  "ar": 158900
+ },
+ {
+  "sorszam": 152,
+  "szalloda_az": "CW",
+  "indulas": {
+   "$date": "2011-03-24T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 200900
+ },
+ {
+  "sorszam": 153,
+  "szalloda_az": "CW",
+  "indulas": {
+   "$date": "2011-03-27T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 128900
+ },
+ {
+  "sorszam": 154,
+  "szalloda_az": "CW",
+  "indulas": {
+   "$date": "2011-03-27T00:00:00Z"
+  },
+  "idotartam": 12,
+  "ar": 169900
+ },
+ {
+  "sorszam": 155,
+  "szalloda_az": "CW",
+  "indulas": {
+   "$date": "2011-03-27T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 205900
+ },
+ {
+  "sorszam": 156,
+  "szalloda_az": "CW",
+  "indulas": {
+   "$date": "2011-03-31T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 127900
+ },
+ {
+  "sorszam": 157,
+  "szalloda_az": "CW",
+  "indulas": {
+   "$date": "2011-03-31T00:00:00Z"
+  },
+  "idotartam": 11,
+  "ar": 163900
+ },
+ {
+  "sorszam": 158,
+  "szalloda_az": "CW",
+  "indulas": {
+   "$date": "2011-03-31T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 226900
+ },
+ {
+  "sorszam": 159,
+  "szalloda_az": "CW",
+  "indulas": {
+   "$date": "2011-04-03T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 132900
+ },
+ {
+  "sorszam": 160,
+  "szalloda_az": "CW",
+  "indulas": {
+   "$date": "2011-04-03T00:00:00Z"
+  },
+  "idotartam": 12,
+  "ar": 194900
+ },
+ {
+  "sorszam": 161,
+  "szalloda_az": "CW",
+  "indulas": {
+   "$date": "2011-04-03T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 241900
+ },
+ {
+  "sorszam": 162,
+  "szalloda_az": "CW",
+  "indulas": {
+   "$date": "2011-04-07T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 152900
+ },
+ {
+  "sorszam": 163,
+  "szalloda_az": "CW",
+  "indulas": {
+   "$date": "2011-04-07T00:00:00Z"
+  },
+  "idotartam": 11,
+  "ar": 199900
+ },
+ {
+  "sorszam": 164,
+  "szalloda_az": "CW",
+  "indulas": {
+   "$date": "2011-04-07T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 241900
+ },
+ {
+  "sorszam": 165,
+  "szalloda_az": "CW",
+  "indulas": {
+   "$date": "2011-04-10T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 163900
+ },
+ {
+  "sorszam": 166,
+  "szalloda_az": "CW",
+  "indulas": {
+   "$date": "2011-04-10T00:00:00Z"
+  },
+  "idotartam": 12,
+  "ar": 205900
+ },
+ {
+  "sorszam": 167,
+  "szalloda_az": "CW",
+  "indulas": {
+   "$date": "2011-04-10T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 236900
+ },
+ {
+  "sorszam": 168,
+  "szalloda_az": "CW",
+  "indulas": {
+   "$date": "2011-04-14T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 142900
+ },
+ {
+  "sorszam": 169,
+  "szalloda_az": "CW",
+  "indulas": {
+   "$date": "2011-04-14T00:00:00Z"
+  },
+  "idotartam": 11,
+  "ar": 174900
+ },
+ {
+  "sorszam": 170,
+  "szalloda_az": "CW",
+  "indulas": {
+   "$date": "2011-04-14T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 216900
+ },
+ {
+  "sorszam": 171,
+  "szalloda_az": "CW",
+  "indulas": {
+   "$date": "2011-04-17T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 128900
+ },
+ {
+  "sorszam": 172,
+  "szalloda_az": "CW",
+  "indulas": {
+   "$date": "2011-04-17T00:00:00Z"
+  },
+  "idotartam": 12,
+  "ar": 169900
+ },
+ {
+  "sorszam": 173,
+  "szalloda_az": "CW",
+  "indulas": {
+   "$date": "2011-04-17T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 200900
+ },
+ {
+  "sorszam": 174,
+  "szalloda_az": "CW",
+  "indulas": {
+   "$date": "2011-04-21T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 127900
+ },
+ {
+  "sorszam": 175,
+  "szalloda_az": "CW",
+  "indulas": {
+   "$date": "2011-04-21T00:00:00Z"
+  },
+  "idotartam": 11,
+  "ar": 158900
+ },
+ {
+  "sorszam": 176,
+  "szalloda_az": "CW",
+  "indulas": {
+   "$date": "2011-04-21T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 200900
+ },
+ {
+  "sorszam": 177,
+  "szalloda_az": "CW",
+  "indulas": {
+   "$date": "2011-04-24T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 128900
+ },
+ {
+  "sorszam": 178,
+  "szalloda_az": "CW",
+  "indulas": {
+   "$date": "2011-04-28T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 127900
+ },
+ {
+  "sorszam": 179,
+  "szalloda_az": "CZ",
+  "indulas": {
+   "$date": "2011-01-05T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 59900
+ },
+ {
+  "sorszam": 180,
+  "szalloda_az": "CZ",
+  "indulas": {
+   "$date": "2011-01-05T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 99900
+ },
+ {
+  "sorszam": 181,
+  "szalloda_az": "CZ",
+  "indulas": {
+   "$date": "2011-01-12T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 86900
+ },
+ {
+  "sorszam": 182,
+  "szalloda_az": "CZ",
+  "indulas": {
+   "$date": "2011-01-12T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 130900
+ },
+ {
+  "sorszam": 183,
+  "szalloda_az": "CZ",
+  "indulas": {
+   "$date": "2011-01-19T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 94900
+ },
+ {
+  "sorszam": 184,
+  "szalloda_az": "CZ",
+  "indulas": {
+   "$date": "2011-01-19T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 142900
+ },
+ {
+  "sorszam": 185,
+  "szalloda_az": "CZ",
+  "indulas": {
+   "$date": "2011-01-26T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 94900
+ },
+ {
+  "sorszam": 186,
+  "szalloda_az": "CZ",
+  "indulas": {
+   "$date": "2011-01-26T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 142900
+ },
+ {
+  "sorszam": 187,
+  "szalloda_az": "CZ",
+  "indulas": {
+   "$date": "2011-02-02T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 102900
+ },
+ {
+  "sorszam": 188,
+  "szalloda_az": "CZ",
+  "indulas": {
+   "$date": "2011-02-02T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 151900
+ },
+ {
+  "sorszam": 189,
+  "szalloda_az": "CZ",
+  "indulas": {
+   "$date": "2011-02-09T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 102900
+ },
+ {
+  "sorszam": 190,
+  "szalloda_az": "CZ",
+  "indulas": {
+   "$date": "2011-02-09T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 151900
+ },
+ {
+  "sorszam": 191,
+  "szalloda_az": "CZ",
+  "indulas": {
+   "$date": "2011-02-16T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 102900
+ },
+ {
+  "sorszam": 192,
+  "szalloda_az": "CZ",
+  "indulas": {
+   "$date": "2011-02-16T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 151900
+ },
+ {
+  "sorszam": 193,
+  "szalloda_az": "CZ",
+  "indulas": {
+   "$date": "2011-02-23T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 102900
+ },
+ {
+  "sorszam": 194,
+  "szalloda_az": "CZ",
+  "indulas": {
+   "$date": "2011-02-23T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 157900
+ },
+ {
+  "sorszam": 195,
+  "szalloda_az": "CZ",
+  "indulas": {
+   "$date": "2011-03-02T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 102900
+ },
+ {
+  "sorszam": 196,
+  "szalloda_az": "CZ",
+  "indulas": {
+   "$date": "2011-03-02T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 157900
+ },
+ {
+  "sorszam": 197,
+  "szalloda_az": "CZ",
+  "indulas": {
+   "$date": "2011-03-09T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 109900
+ },
+ {
+  "sorszam": 198,
+  "szalloda_az": "CZ",
+  "indulas": {
+   "$date": "2011-03-09T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 164900
+ },
+ {
+  "sorszam": 199,
+  "szalloda_az": "CZ",
+  "indulas": {
+   "$date": "2011-03-16T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 109900
+ },
+ {
+  "sorszam": 200,
+  "szalloda_az": "CZ",
+  "indulas": {
+   "$date": "2011-03-16T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 164900
+ },
+ {
+  "sorszam": 201,
+  "szalloda_az": "CZ",
+  "indulas": {
+   "$date": "2011-03-23T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 109900
+ },
+ {
+  "sorszam": 202,
+  "szalloda_az": "CZ",
+  "indulas": {
+   "$date": "2011-03-23T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 164900
+ },
+ {
+  "sorszam": 203,
+  "szalloda_az": "CZ",
+  "indulas": {
+   "$date": "2011-03-30T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 109900
+ },
+ {
+  "sorszam": 204,
+  "szalloda_az": "CZ",
+  "indulas": {
+   "$date": "2011-03-30T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 189900
+ },
+ {
+  "sorszam": 205,
+  "szalloda_az": "CZ",
+  "indulas": {
+   "$date": "2011-04-06T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 133900
+ },
+ {
+  "sorszam": 206,
+  "szalloda_az": "CZ",
+  "indulas": {
+   "$date": "2011-04-06T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 207900
+ },
+ {
+  "sorszam": 207,
+  "szalloda_az": "CZ",
+  "indulas": {
+   "$date": "2011-04-13T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 127900
+ },
+ {
+  "sorszam": 208,
+  "szalloda_az": "CZ",
+  "indulas": {
+   "$date": "2011-04-13T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 183900
+ },
+ {
+  "sorszam": 209,
+  "szalloda_az": "CZ",
+  "indulas": {
+   "$date": "2011-04-20T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 109900
+ },
+ {
+  "sorszam": 210,
+  "szalloda_az": "CZ",
+  "indulas": {
+   "$date": "2011-04-20T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 164900
+ },
+ {
+  "sorszam": 211,
+  "szalloda_az": "CZ",
+  "indulas": {
+   "$date": "2011-04-27T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 109900
+ },
+ {
+  "sorszam": 212,
+  "szalloda_az": "FJ",
+  "indulas": {
+   "$date": "2011-01-02T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 69900
+ },
+ {
+  "sorszam": 213,
+  "szalloda_az": "FJ",
+  "indulas": {
+   "$date": "2011-01-02T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 89900
+ },
+ {
+  "sorszam": 214,
+  "szalloda_az": "FJ",
+  "indulas": {
+   "$date": "2011-01-09T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 88900
+ },
+ {
+  "sorszam": 215,
+  "szalloda_az": "FJ",
+  "indulas": {
+   "$date": "2011-01-09T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 122900
+ },
+ {
+  "sorszam": 216,
+  "szalloda_az": "FJ",
+  "indulas": {
+   "$date": "2011-01-16T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 96900
+ },
+ {
+  "sorszam": 217,
+  "szalloda_az": "FJ",
+  "indulas": {
+   "$date": "2011-01-16T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 133900
+ },
+ {
+  "sorszam": 218,
+  "szalloda_az": "FJ",
+  "indulas": {
+   "$date": "2011-01-23T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 96900
+ },
+ {
+  "sorszam": 219,
+  "szalloda_az": "FJ",
+  "indulas": {
+   "$date": "2011-01-23T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 133900
+ },
+ {
+  "sorszam": 220,
+  "szalloda_az": "FJ",
+  "indulas": {
+   "$date": "2011-01-30T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 96900
+ },
+ {
+  "sorszam": 221,
+  "szalloda_az": "FJ",
+  "indulas": {
+   "$date": "2011-01-30T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 133900
+ },
+ {
+  "sorszam": 222,
+  "szalloda_az": "FJ",
+  "indulas": {
+   "$date": "2011-02-06T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 100900
+ },
+ {
+  "sorszam": 223,
+  "szalloda_az": "FJ",
+  "indulas": {
+   "$date": "2011-02-06T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 150900
+ },
+ {
+  "sorszam": 224,
+  "szalloda_az": "FJ",
+  "indulas": {
+   "$date": "2011-02-13T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 100900
+ },
+ {
+  "sorszam": 225,
+  "szalloda_az": "FJ",
+  "indulas": {
+   "$date": "2011-02-13T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 150900
+ },
+ {
+  "sorszam": 226,
+  "szalloda_az": "FJ",
+  "indulas": {
+   "$date": "2011-02-20T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 100900
+ },
+ {
+  "sorszam": 227,
+  "szalloda_az": "FJ",
+  "indulas": {
+   "$date": "2011-02-20T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 154900
+ },
+ {
+  "sorszam": 228,
+  "szalloda_az": "FJ",
+  "indulas": {
+   "$date": "2011-02-27T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 102900
+ },
+ {
+  "sorszam": 229,
+  "szalloda_az": "FJ",
+  "indulas": {
+   "$date": "2011-02-27T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 154900
+ },
+ {
+  "sorszam": 230,
+  "szalloda_az": "FJ",
+  "indulas": {
+   "$date": "2011-03-06T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 109900
+ },
+ {
+  "sorszam": 231,
+  "szalloda_az": "FJ",
+  "indulas": {
+   "$date": "2011-03-06T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 165900
+ },
+ {
+  "sorszam": 232,
+  "szalloda_az": "FJ",
+  "indulas": {
+   "$date": "2011-03-10T00:00:00Z"
+  },
+  "idotartam": 11,
+  "ar": 133900
+ },
+ {
+  "sorszam": 233,
+  "szalloda_az": "FJ",
+  "indulas": {
+   "$date": "2011-03-13T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 109900
+ },
+ {
+  "sorszam": 234,
+  "szalloda_az": "FJ",
+  "indulas": {
+   "$date": "2011-03-13T00:00:00Z"
+  },
+  "idotartam": 12,
+  "ar": 143900
+ },
+ {
+  "sorszam": 235,
+  "szalloda_az": "FJ",
+  "indulas": {
+   "$date": "2011-03-13T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 165900
+ },
+ {
+  "sorszam": 236,
+  "szalloda_az": "FJ",
+  "indulas": {
+   "$date": "2011-03-17T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 109900
+ },
+ {
+  "sorszam": 237,
+  "szalloda_az": "FJ",
+  "indulas": {
+   "$date": "2011-03-17T00:00:00Z"
+  },
+  "idotartam": 11,
+  "ar": 133900
+ },
+ {
+  "sorszam": 238,
+  "szalloda_az": "FJ",
+  "indulas": {
+   "$date": "2011-03-17T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 165900
+ },
+ {
+  "sorszam": 239,
+  "szalloda_az": "FJ",
+  "indulas": {
+   "$date": "2011-03-20T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 109900
+ },
+ {
+  "sorszam": 240,
+  "szalloda_az": "FJ",
+  "indulas": {
+   "$date": "2011-03-20T00:00:00Z"
+  },
+  "idotartam": 12,
+  "ar": 143900
+ },
+ {
+  "sorszam": 241,
+  "szalloda_az": "FJ",
+  "indulas": {
+   "$date": "2011-03-20T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 165900
+ },
+ {
+  "sorszam": 242,
+  "szalloda_az": "FJ",
+  "indulas": {
+   "$date": "2011-03-24T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 109900
+ },
+ {
+  "sorszam": 243,
+  "szalloda_az": "FJ",
+  "indulas": {
+   "$date": "2011-03-24T00:00:00Z"
+  },
+  "idotartam": 11,
+  "ar": 133900
+ },
+ {
+  "sorszam": 244,
+  "szalloda_az": "FJ",
+  "indulas": {
+   "$date": "2011-03-24T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 165900
+ },
+ {
+  "sorszam": 245,
+  "szalloda_az": "FJ",
+  "indulas": {
+   "$date": "2011-03-27T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 109900
+ },
+ {
+  "sorszam": 246,
+  "szalloda_az": "FJ",
+  "indulas": {
+   "$date": "2011-03-27T00:00:00Z"
+  },
+  "idotartam": 12,
+  "ar": 143900
+ },
+ {
+  "sorszam": 247,
+  "szalloda_az": "FJ",
+  "indulas": {
+   "$date": "2011-03-27T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 165900
+ },
+ {
+  "sorszam": 248,
+  "szalloda_az": "FJ",
+  "indulas": {
+   "$date": "2011-03-31T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 109900
+ },
+ {
+  "sorszam": 249,
+  "szalloda_az": "FJ",
+  "indulas": {
+   "$date": "2011-03-31T00:00:00Z"
+  },
+  "idotartam": 11,
+  "ar": 133900
+ },
+ {
+  "sorszam": 250,
+  "szalloda_az": "FJ",
+  "indulas": {
+   "$date": "2011-03-31T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 167900
+ },
+ {
+  "sorszam": 251,
+  "szalloda_az": "FJ",
+  "indulas": {
+   "$date": "2011-04-03T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 109900
+ },
+ {
+  "sorszam": 252,
+  "szalloda_az": "FJ",
+  "indulas": {
+   "$date": "2011-04-03T00:00:00Z"
+  },
+  "idotartam": 12,
+  "ar": 143900
+ },
+ {
+  "sorszam": 253,
+  "szalloda_az": "FJ",
+  "indulas": {
+   "$date": "2011-04-03T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 172900
+ },
+ {
+  "sorszam": 254,
+  "szalloda_az": "FJ",
+  "indulas": {
+   "$date": "2011-04-07T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 111900
+ },
+ {
+  "sorszam": 255,
+  "szalloda_az": "FJ",
+  "indulas": {
+   "$date": "2011-04-07T00:00:00Z"
+  },
+  "idotartam": 11,
+  "ar": 140900
+ },
+ {
+  "sorszam": 256,
+  "szalloda_az": "FJ",
+  "indulas": {
+   "$date": "2011-04-07T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 178900
+ },
+ {
+  "sorszam": 257,
+  "szalloda_az": "FJ",
+  "indulas": {
+   "$date": "2011-04-10T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 119900
+ },
+ {
+  "sorszam": 258,
+  "szalloda_az": "FJ",
+  "indulas": {
+   "$date": "2011-04-10T00:00:00Z"
+  },
+  "idotartam": 12,
+  "ar": 154900
+ },
+ {
+  "sorszam": 259,
+  "szalloda_az": "FJ",
+  "indulas": {
+   "$date": "2011-04-10T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 178900
+ },
+ {
+  "sorszam": 260,
+  "szalloda_az": "FJ",
+  "indulas": {
+   "$date": "2011-04-14T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 121900
+ },
+ {
+  "sorszam": 261,
+  "szalloda_az": "FJ",
+  "indulas": {
+   "$date": "2011-04-14T00:00:00Z"
+  },
+  "idotartam": 11,
+  "ar": 145900
+ },
+ {
+  "sorszam": 262,
+  "szalloda_az": "FJ",
+  "indulas": {
+   "$date": "2011-04-14T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 178900
+ },
+ {
+  "sorszam": 263,
+  "szalloda_az": "FJ",
+  "indulas": {
+   "$date": "2011-04-17T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 119900
+ },
+ {
+  "sorszam": 264,
+  "szalloda_az": "FJ",
+  "indulas": {
+   "$date": "2011-04-17T00:00:00Z"
+  },
+  "idotartam": 12,
+  "ar": 148900
+ },
+ {
+  "sorszam": 265,
+  "szalloda_az": "FJ",
+  "indulas": {
+   "$date": "2011-04-17T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 172900
+ },
+ {
+  "sorszam": 266,
+  "szalloda_az": "FJ",
+  "indulas": {
+   "$date": "2011-04-21T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 109900
+ },
+ {
+  "sorszam": 267,
+  "szalloda_az": "FJ",
+  "indulas": {
+   "$date": "2011-04-21T00:00:00Z"
+  },
+  "idotartam": 11,
+  "ar": 133900
+ },
+ {
+  "sorszam": 268,
+  "szalloda_az": "FJ",
+  "indulas": {
+   "$date": "2011-04-21T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 165900
+ },
+ {
+  "sorszam": 269,
+  "szalloda_az": "FJ",
+  "indulas": {
+   "$date": "2011-04-24T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 109900
+ },
+ {
+  "sorszam": 270,
+  "szalloda_az": "FJ",
+  "indulas": {
+   "$date": "2011-04-28T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 109900
+ },
+ {
+  "sorszam": 271,
+  "szalloda_az": "HB",
+  "indulas": {
+   "$date": "2011-01-23T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 84900
+ },
+ {
+  "sorszam": 272,
+  "szalloda_az": "HB",
+  "indulas": {
+   "$date": "2011-01-23T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 116900
+ },
+ {
+  "sorszam": 273,
+  "szalloda_az": "HB",
+  "indulas": {
+   "$date": "2011-01-30T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 84900
+ },
+ {
+  "sorszam": 274,
+  "szalloda_az": "HB",
+  "indulas": {
+   "$date": "2011-01-30T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 116900
+ },
+ {
+  "sorszam": 275,
+  "szalloda_az": "HB",
+  "indulas": {
+   "$date": "2011-02-06T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 84900
+ },
+ {
+  "sorszam": 276,
+  "szalloda_az": "HB",
+  "indulas": {
+   "$date": "2011-02-06T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 116900
+ },
+ {
+  "sorszam": 277,
+  "szalloda_az": "HB",
+  "indulas": {
+   "$date": "2011-02-13T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 84900
+ },
+ {
+  "sorszam": 278,
+  "szalloda_az": "HB",
+  "indulas": {
+   "$date": "2011-02-13T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 116900
+ },
+ {
+  "sorszam": 279,
+  "szalloda_az": "HB",
+  "indulas": {
+   "$date": "2011-02-20T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 84900
+ },
+ {
+  "sorszam": 280,
+  "szalloda_az": "HB",
+  "indulas": {
+   "$date": "2011-02-20T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 116900
+ },
+ {
+  "sorszam": 281,
+  "szalloda_az": "HB",
+  "indulas": {
+   "$date": "2011-02-27T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 84900
+ },
+ {
+  "sorszam": 282,
+  "szalloda_az": "HB",
+  "indulas": {
+   "$date": "2011-02-27T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 116900
+ },
+ {
+  "sorszam": 283,
+  "szalloda_az": "HB",
+  "indulas": {
+   "$date": "2011-03-06T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 84900
+ },
+ {
+  "sorszam": 284,
+  "szalloda_az": "HB",
+  "indulas": {
+   "$date": "2011-03-06T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 116900
+ },
+ {
+  "sorszam": 285,
+  "szalloda_az": "HB",
+  "indulas": {
+   "$date": "2011-03-13T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 84900
+ },
+ {
+  "sorszam": 286,
+  "szalloda_az": "HB",
+  "indulas": {
+   "$date": "2011-03-13T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 116900
+ },
+ {
+  "sorszam": 287,
+  "szalloda_az": "HB",
+  "indulas": {
+   "$date": "2011-03-20T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 84900
+ },
+ {
+  "sorszam": 288,
+  "szalloda_az": "HB",
+  "indulas": {
+   "$date": "2011-03-20T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 116900
+ },
+ {
+  "sorszam": 289,
+  "szalloda_az": "HB",
+  "indulas": {
+   "$date": "2011-03-27T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 84900
+ },
+ {
+  "sorszam": 290,
+  "szalloda_az": "HB",
+  "indulas": {
+   "$date": "2011-03-27T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 116900
+ },
+ {
+  "sorszam": 291,
+  "szalloda_az": "HB",
+  "indulas": {
+   "$date": "2011-04-03T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 84900
+ },
+ {
+  "sorszam": 292,
+  "szalloda_az": "HB",
+  "indulas": {
+   "$date": "2011-04-03T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 126900
+ },
+ {
+  "sorszam": 293,
+  "szalloda_az": "HB",
+  "indulas": {
+   "$date": "2011-04-10T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 90900
+ },
+ {
+  "sorszam": 294,
+  "szalloda_az": "HB",
+  "indulas": {
+   "$date": "2011-04-10T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 126900
+ },
+ {
+  "sorszam": 295,
+  "szalloda_az": "HB",
+  "indulas": {
+   "$date": "2011-04-17T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 84900
+ },
+ {
+  "sorszam": 296,
+  "szalloda_az": "HB",
+  "indulas": {
+   "$date": "2011-04-17T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 116900
+ },
+ {
+  "sorszam": 297,
+  "szalloda_az": "HB",
+  "indulas": {
+   "$date": "2011-04-24T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 84900
+ },
+ {
+  "sorszam": 298,
+  "szalloda_az": "JR",
+  "indulas": {
+   "$date": "2011-01-02T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 38900
+ },
+ {
+  "sorszam": 299,
+  "szalloda_az": "JR",
+  "indulas": {
+   "$date": "2011-01-02T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 53900
+ },
+ {
+  "sorszam": 300,
+  "szalloda_az": "JR",
+  "indulas": {
+   "$date": "2011-01-09T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 37900
+ },
+ {
+  "sorszam": 301,
+  "szalloda_az": "JR",
+  "indulas": {
+   "$date": "2011-01-09T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 53900
+ },
+ {
+  "sorszam": 302,
+  "szalloda_az": "JR",
+  "indulas": {
+   "$date": "2011-01-16T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 37900
+ },
+ {
+  "sorszam": 303,
+  "szalloda_az": "JR",
+  "indulas": {
+   "$date": "2011-01-16T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 53900
+ },
+ {
+  "sorszam": 304,
+  "szalloda_az": "JR",
+  "indulas": {
+   "$date": "2011-01-23T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 37900
+ },
+ {
+  "sorszam": 305,
+  "szalloda_az": "JR",
+  "indulas": {
+   "$date": "2011-01-23T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 53900
+ },
+ {
+  "sorszam": 306,
+  "szalloda_az": "JR",
+  "indulas": {
+   "$date": "2011-01-30T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 37900
+ },
+ {
+  "sorszam": 307,
+  "szalloda_az": "JR",
+  "indulas": {
+   "$date": "2011-01-30T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 53900
+ },
+ {
+  "sorszam": 308,
+  "szalloda_az": "JR",
+  "indulas": {
+   "$date": "2011-02-06T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 37900
+ },
+ {
+  "sorszam": 309,
+  "szalloda_az": "JR",
+  "indulas": {
+   "$date": "2011-02-06T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 53900
+ },
+ {
+  "sorszam": 310,
+  "szalloda_az": "JR",
+  "indulas": {
+   "$date": "2011-02-13T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 37900
+ },
+ {
+  "sorszam": 311,
+  "szalloda_az": "JR",
+  "indulas": {
+   "$date": "2011-02-13T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 53900
+ },
+ {
+  "sorszam": 312,
+  "szalloda_az": "JR",
+  "indulas": {
+   "$date": "2011-02-20T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 37900
+ },
+ {
+  "sorszam": 313,
+  "szalloda_az": "JR",
+  "indulas": {
+   "$date": "2011-02-20T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 53900
+ },
+ {
+  "sorszam": 314,
+  "szalloda_az": "JR",
+  "indulas": {
+   "$date": "2011-02-27T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 37900
+ },
+ {
+  "sorszam": 315,
+  "szalloda_az": "JR",
+  "indulas": {
+   "$date": "2011-02-27T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 53900
+ },
+ {
+  "sorszam": 316,
+  "szalloda_az": "JR",
+  "indulas": {
+   "$date": "2011-03-06T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 70900
+ },
+ {
+  "sorszam": 317,
+  "szalloda_az": "JR",
+  "indulas": {
+   "$date": "2011-03-06T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 90900
+ },
+ {
+  "sorszam": 318,
+  "szalloda_az": "JR",
+  "indulas": {
+   "$date": "2011-03-13T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 70900
+ },
+ {
+  "sorszam": 319,
+  "szalloda_az": "JR",
+  "indulas": {
+   "$date": "2011-03-13T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 90900
+ },
+ {
+  "sorszam": 320,
+  "szalloda_az": "JR",
+  "indulas": {
+   "$date": "2011-03-20T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 70900
+ },
+ {
+  "sorszam": 321,
+  "szalloda_az": "JR",
+  "indulas": {
+   "$date": "2011-03-20T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 90900
+ },
+ {
+  "sorszam": 322,
+  "szalloda_az": "JR",
+  "indulas": {
+   "$date": "2011-03-27T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 70900
+ },
+ {
+  "sorszam": 323,
+  "szalloda_az": "JR",
+  "indulas": {
+   "$date": "2011-03-27T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 90900
+ },
+ {
+  "sorszam": 324,
+  "szalloda_az": "JR",
+  "indulas": {
+   "$date": "2011-04-03T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 70900
+ },
+ {
+  "sorszam": 325,
+  "szalloda_az": "JR",
+  "indulas": {
+   "$date": "2011-04-03T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 97900
+ },
+ {
+  "sorszam": 326,
+  "szalloda_az": "JR",
+  "indulas": {
+   "$date": "2011-04-10T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 76900
+ },
+ {
+  "sorszam": 327,
+  "szalloda_az": "JR",
+  "indulas": {
+   "$date": "2011-04-10T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 97900
+ },
+ {
+  "sorszam": 328,
+  "szalloda_az": "JR",
+  "indulas": {
+   "$date": "2011-04-17T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 70900
+ },
+ {
+  "sorszam": 329,
+  "szalloda_az": "JR",
+  "indulas": {
+   "$date": "2011-04-17T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 90900
+ },
+ {
+  "sorszam": 330,
+  "szalloda_az": "JR",
+  "indulas": {
+   "$date": "2011-04-24T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 70900
+ },
+ {
+  "sorszam": 331,
+  "szalloda_az": "MB",
+  "indulas": {
+   "$date": "2011-01-02T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 70900
+ },
+ {
+  "sorszam": 332,
+  "szalloda_az": "MB",
+  "indulas": {
+   "$date": "2011-01-02T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 89900
+ },
+ {
+  "sorszam": 333,
+  "szalloda_az": "MB",
+  "indulas": {
+   "$date": "2011-01-09T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 37900
+ },
+ {
+  "sorszam": 334,
+  "szalloda_az": "MB",
+  "indulas": {
+   "$date": "2011-01-09T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 53900
+ },
+ {
+  "sorszam": 335,
+  "szalloda_az": "MB",
+  "indulas": {
+   "$date": "2011-01-16T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 37900
+ },
+ {
+  "sorszam": 336,
+  "szalloda_az": "MB",
+  "indulas": {
+   "$date": "2011-01-16T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 53900
+ },
+ {
+  "sorszam": 337,
+  "szalloda_az": "MB",
+  "indulas": {
+   "$date": "2011-01-23T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 37900
+ },
+ {
+  "sorszam": 338,
+  "szalloda_az": "MB",
+  "indulas": {
+   "$date": "2011-01-23T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 53900
+ },
+ {
+  "sorszam": 339,
+  "szalloda_az": "MB",
+  "indulas": {
+   "$date": "2011-01-30T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 37900
+ },
+ {
+  "sorszam": 340,
+  "szalloda_az": "MB",
+  "indulas": {
+   "$date": "2011-01-30T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 53900
+ },
+ {
+  "sorszam": 341,
+  "szalloda_az": "MB",
+  "indulas": {
+   "$date": "2011-02-06T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 37900
+ },
+ {
+  "sorszam": 342,
+  "szalloda_az": "MB",
+  "indulas": {
+   "$date": "2011-02-06T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 53900
+ },
+ {
+  "sorszam": 343,
+  "szalloda_az": "MB",
+  "indulas": {
+   "$date": "2011-02-13T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 37900
+ },
+ {
+  "sorszam": 344,
+  "szalloda_az": "MB",
+  "indulas": {
+   "$date": "2011-02-13T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 53900
+ },
+ {
+  "sorszam": 345,
+  "szalloda_az": "MB",
+  "indulas": {
+   "$date": "2011-02-20T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 37900
+ },
+ {
+  "sorszam": 346,
+  "szalloda_az": "MB",
+  "indulas": {
+   "$date": "2011-02-20T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 53900
+ },
+ {
+  "sorszam": 347,
+  "szalloda_az": "MB",
+  "indulas": {
+   "$date": "2011-02-27T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 37900
+ },
+ {
+  "sorszam": 348,
+  "szalloda_az": "MB",
+  "indulas": {
+   "$date": "2011-02-27T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 53900
+ },
+ {
+  "sorszam": 349,
+  "szalloda_az": "MB",
+  "indulas": {
+   "$date": "2011-03-06T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 69900
+ },
+ {
+  "sorszam": 350,
+  "szalloda_az": "MB",
+  "indulas": {
+   "$date": "2011-03-06T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 88900
+ },
+ {
+  "sorszam": 351,
+  "szalloda_az": "MB",
+  "indulas": {
+   "$date": "2011-03-13T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 69900
+ },
+ {
+  "sorszam": 352,
+  "szalloda_az": "MB",
+  "indulas": {
+   "$date": "2011-03-13T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 88900
+ },
+ {
+  "sorszam": 353,
+  "szalloda_az": "MB",
+  "indulas": {
+   "$date": "2011-03-20T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 69900
+ },
+ {
+  "sorszam": 354,
+  "szalloda_az": "MB",
+  "indulas": {
+   "$date": "2011-03-20T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 88900
+ },
+ {
+  "sorszam": 355,
+  "szalloda_az": "MB",
+  "indulas": {
+   "$date": "2011-03-27T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 69900
+ },
+ {
+  "sorszam": 356,
+  "szalloda_az": "MB",
+  "indulas": {
+   "$date": "2011-03-27T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 88900
+ },
+ {
+  "sorszam": 357,
+  "szalloda_az": "MB",
+  "indulas": {
+   "$date": "2011-04-03T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 69900
+ },
+ {
+  "sorszam": 358,
+  "szalloda_az": "MB",
+  "indulas": {
+   "$date": "2011-04-03T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 95900
+ },
+ {
+  "sorszam": 359,
+  "szalloda_az": "MB",
+  "indulas": {
+   "$date": "2011-04-10T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 75900
+ },
+ {
+  "sorszam": 360,
+  "szalloda_az": "MB",
+  "indulas": {
+   "$date": "2011-04-10T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 95900
+ },
+ {
+  "sorszam": 361,
+  "szalloda_az": "MB",
+  "indulas": {
+   "$date": "2011-04-17T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 69900
+ },
+ {
+  "sorszam": 362,
+  "szalloda_az": "MB",
+  "indulas": {
+   "$date": "2011-04-17T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 88900
+ },
+ {
+  "sorszam": 363,
+  "szalloda_az": "MB",
+  "indulas": {
+   "$date": "2011-04-24T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 69900
+ },
+ {
+  "sorszam": 364,
+  "szalloda_az": "MD",
+  "indulas": {
+   "$date": "2011-01-23T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 70900
+ },
+ {
+  "sorszam": 365,
+  "szalloda_az": "MD",
+  "indulas": {
+   "$date": "2011-01-23T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 90900
+ },
+ {
+  "sorszam": 366,
+  "szalloda_az": "MD",
+  "indulas": {
+   "$date": "2011-01-30T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 70900
+ },
+ {
+  "sorszam": 367,
+  "szalloda_az": "MD",
+  "indulas": {
+   "$date": "2011-01-30T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 90900
+ },
+ {
+  "sorszam": 368,
+  "szalloda_az": "MD",
+  "indulas": {
+   "$date": "2011-02-06T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 70900
+ },
+ {
+  "sorszam": 369,
+  "szalloda_az": "MD",
+  "indulas": {
+   "$date": "2011-02-06T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 90900
+ },
+ {
+  "sorszam": 370,
+  "szalloda_az": "MD",
+  "indulas": {
+   "$date": "2011-02-13T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 70900
+ },
+ {
+  "sorszam": 371,
+  "szalloda_az": "MD",
+  "indulas": {
+   "$date": "2011-02-13T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 90900
+ },
+ {
+  "sorszam": 372,
+  "szalloda_az": "MD",
+  "indulas": {
+   "$date": "2011-02-20T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 70900
+ },
+ {
+  "sorszam": 373,
+  "szalloda_az": "MD",
+  "indulas": {
+   "$date": "2011-02-20T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 90900
+ },
+ {
+  "sorszam": 374,
+  "szalloda_az": "MD",
+  "indulas": {
+   "$date": "2011-02-27T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 70900
+ },
+ {
+  "sorszam": 375,
+  "szalloda_az": "MD",
+  "indulas": {
+   "$date": "2011-02-27T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 90900
+ },
+ {
+  "sorszam": 376,
+  "szalloda_az": "MD",
+  "indulas": {
+   "$date": "2011-03-06T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 70900
+ },
+ {
+  "sorszam": 377,
+  "szalloda_az": "MD",
+  "indulas": {
+   "$date": "2011-03-06T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 90900
+ },
+ {
+  "sorszam": 378,
+  "szalloda_az": "MD",
+  "indulas": {
+   "$date": "2011-03-13T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 70900
+ },
+ {
+  "sorszam": 379,
+  "szalloda_az": "MD",
+  "indulas": {
+   "$date": "2011-03-13T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 90900
+ },
+ {
+  "sorszam": 380,
+  "szalloda_az": "MD",
+  "indulas": {
+   "$date": "2011-03-20T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 70900
+ },
+ {
+  "sorszam": 381,
+  "szalloda_az": "MD",
+  "indulas": {
+   "$date": "2011-03-20T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 90900
+ },
+ {
+  "sorszam": 382,
+  "szalloda_az": "MD",
+  "indulas": {
+   "$date": "2011-03-27T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 70900
+ },
+ {
+  "sorszam": 383,
+  "szalloda_az": "MD",
+  "indulas": {
+   "$date": "2011-03-27T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 90900
+ },
+ {
+  "sorszam": 384,
+  "szalloda_az": "MD",
+  "indulas": {
+   "$date": "2011-04-03T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 70900
+ },
+ {
+  "sorszam": 385,
+  "szalloda_az": "MD",
+  "indulas": {
+   "$date": "2011-04-03T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 97900
+ },
+ {
+  "sorszam": 386,
+  "szalloda_az": "MD",
+  "indulas": {
+   "$date": "2011-04-10T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 76900
+ },
+ {
+  "sorszam": 387,
+  "szalloda_az": "MD",
+  "indulas": {
+   "$date": "2011-04-10T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 97900
+ },
+ {
+  "sorszam": 388,
+  "szalloda_az": "MD",
+  "indulas": {
+   "$date": "2011-04-17T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 70900
+ },
+ {
+  "sorszam": 389,
+  "szalloda_az": "MD",
+  "indulas": {
+   "$date": "2011-04-17T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 90900
+ },
+ {
+  "sorszam": 390,
+  "szalloda_az": "MD",
+  "indulas": {
+   "$date": "2011-04-24T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 70900
+ },
+ {
+  "sorszam": 391,
+  "szalloda_az": "MP",
+  "indulas": {
+   "$date": "2011-01-02T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 83900
+ },
+ {
+  "sorszam": 392,
+  "szalloda_az": "MP",
+  "indulas": {
+   "$date": "2011-01-02T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 115900
+ },
+ {
+  "sorszam": 393,
+  "szalloda_az": "MP",
+  "indulas": {
+   "$date": "2011-01-09T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 83900
+ },
+ {
+  "sorszam": 394,
+  "szalloda_az": "MP",
+  "indulas": {
+   "$date": "2011-01-09T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 115900
+ },
+ {
+  "sorszam": 395,
+  "szalloda_az": "MP",
+  "indulas": {
+   "$date": "2011-01-16T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 83900
+ },
+ {
+  "sorszam": 396,
+  "szalloda_az": "MP",
+  "indulas": {
+   "$date": "2011-01-16T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 115900
+ },
+ {
+  "sorszam": 397,
+  "szalloda_az": "MP",
+  "indulas": {
+   "$date": "2011-01-23T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 83900
+ },
+ {
+  "sorszam": 398,
+  "szalloda_az": "MP",
+  "indulas": {
+   "$date": "2011-01-23T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 115900
+ },
+ {
+  "sorszam": 399,
+  "szalloda_az": "MP",
+  "indulas": {
+   "$date": "2011-01-30T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 83900
+ },
+ {
+  "sorszam": 400,
+  "szalloda_az": "MP",
+  "indulas": {
+   "$date": "2011-01-30T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 115900
+ },
+ {
+  "sorszam": 401,
+  "szalloda_az": "MP",
+  "indulas": {
+   "$date": "2011-02-06T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 83900
+ },
+ {
+  "sorszam": 402,
+  "szalloda_az": "MP",
+  "indulas": {
+   "$date": "2011-02-06T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 115900
+ },
+ {
+  "sorszam": 403,
+  "szalloda_az": "MP",
+  "indulas": {
+   "$date": "2011-02-13T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 83900
+ },
+ {
+  "sorszam": 404,
+  "szalloda_az": "MP",
+  "indulas": {
+   "$date": "2011-02-13T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 115900
+ },
+ {
+  "sorszam": 405,
+  "szalloda_az": "MP",
+  "indulas": {
+   "$date": "2011-02-20T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 83900
+ },
+ {
+  "sorszam": 406,
+  "szalloda_az": "MP",
+  "indulas": {
+   "$date": "2011-02-20T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 122900
+ },
+ {
+  "sorszam": 407,
+  "szalloda_az": "MP",
+  "indulas": {
+   "$date": "2011-02-27T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 90900
+ },
+ {
+  "sorszam": 408,
+  "szalloda_az": "MP",
+  "indulas": {
+   "$date": "2011-02-27T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 139900
+ },
+ {
+  "sorszam": 409,
+  "szalloda_az": "MP",
+  "indulas": {
+   "$date": "2011-03-06T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 99900
+ },
+ {
+  "sorszam": 410,
+  "szalloda_az": "MP",
+  "indulas": {
+   "$date": "2011-03-06T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 148900
+ },
+ {
+  "sorszam": 411,
+  "szalloda_az": "MP",
+  "indulas": {
+   "$date": "2011-03-13T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 99900
+ },
+ {
+  "sorszam": 412,
+  "szalloda_az": "MP",
+  "indulas": {
+   "$date": "2011-03-13T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 148900
+ },
+ {
+  "sorszam": 413,
+  "szalloda_az": "MP",
+  "indulas": {
+   "$date": "2011-03-20T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 99900
+ },
+ {
+  "sorszam": 414,
+  "szalloda_az": "MP",
+  "indulas": {
+   "$date": "2011-03-20T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 148900
+ },
+ {
+  "sorszam": 415,
+  "szalloda_az": "MP",
+  "indulas": {
+   "$date": "2011-03-27T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 99900
+ },
+ {
+  "sorszam": 416,
+  "szalloda_az": "MP",
+  "indulas": {
+   "$date": "2011-03-27T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 157900
+ },
+ {
+  "sorszam": 417,
+  "szalloda_az": "MP",
+  "indulas": {
+   "$date": "2011-04-03T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 109900
+ },
+ {
+  "sorszam": 418,
+  "szalloda_az": "MP",
+  "indulas": {
+   "$date": "2011-04-03T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 184900
+ },
+ {
+  "sorszam": 419,
+  "szalloda_az": "MP",
+  "indulas": {
+   "$date": "2011-04-10T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 121900
+ },
+ {
+  "sorszam": 420,
+  "szalloda_az": "MP",
+  "indulas": {
+   "$date": "2011-04-10T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 188900
+ },
+ {
+  "sorszam": 421,
+  "szalloda_az": "MP",
+  "indulas": {
+   "$date": "2011-04-17T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 112900
+ },
+ {
+  "sorszam": 422,
+  "szalloda_az": "MP",
+  "indulas": {
+   "$date": "2011-04-17T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 174900
+ },
+ {
+  "sorszam": 423,
+  "szalloda_az": "MP",
+  "indulas": {
+   "$date": "2011-04-24T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 112900
+ },
+ {
+  "sorszam": 424,
+  "szalloda_az": "TA",
+  "indulas": {
+   "$date": "2011-01-05T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 69900
+ },
+ {
+  "sorszam": 425,
+  "szalloda_az": "TA",
+  "indulas": {
+   "$date": "2011-01-05T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 119900
+ },
+ {
+  "sorszam": 426,
+  "szalloda_az": "TA",
+  "indulas": {
+   "$date": "2011-01-12T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 97900
+ },
+ {
+  "sorszam": 427,
+  "szalloda_az": "TA",
+  "indulas": {
+   "$date": "2011-01-12T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 147900
+ },
+ {
+  "sorszam": 428,
+  "szalloda_az": "TA",
+  "indulas": {
+   "$date": "2011-01-19T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 100900
+ },
+ {
+  "sorszam": 429,
+  "szalloda_az": "TA",
+  "indulas": {
+   "$date": "2011-01-19T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 155900
+ },
+ {
+  "sorszam": 430,
+  "szalloda_az": "TA",
+  "indulas": {
+   "$date": "2011-01-26T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 100900
+ },
+ {
+  "sorszam": 431,
+  "szalloda_az": "TA",
+  "indulas": {
+   "$date": "2011-01-26T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 155900
+ },
+ {
+  "sorszam": 432,
+  "szalloda_az": "TA",
+  "indulas": {
+   "$date": "2011-02-02T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 107900
+ },
+ {
+  "sorszam": 433,
+  "szalloda_az": "TA",
+  "indulas": {
+   "$date": "2011-02-02T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 164900
+ },
+ {
+  "sorszam": 434,
+  "szalloda_az": "TA",
+  "indulas": {
+   "$date": "2011-02-09T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 107900
+ },
+ {
+  "sorszam": 435,
+  "szalloda_az": "TA",
+  "indulas": {
+   "$date": "2011-02-09T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 164900
+ },
+ {
+  "sorszam": 436,
+  "szalloda_az": "TA",
+  "indulas": {
+   "$date": "2011-02-16T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 107900
+ },
+ {
+  "sorszam": 437,
+  "szalloda_az": "TA",
+  "indulas": {
+   "$date": "2011-02-16T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 164900
+ },
+ {
+  "sorszam": 438,
+  "szalloda_az": "TA",
+  "indulas": {
+   "$date": "2011-02-23T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 107900
+ },
+ {
+  "sorszam": 439,
+  "szalloda_az": "TA",
+  "indulas": {
+   "$date": "2011-02-23T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 164900
+ },
+ {
+  "sorszam": 440,
+  "szalloda_az": "TA",
+  "indulas": {
+   "$date": "2011-03-02T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 107900
+ },
+ {
+  "sorszam": 441,
+  "szalloda_az": "TA",
+  "indulas": {
+   "$date": "2011-03-02T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 171900
+ },
+ {
+  "sorszam": 442,
+  "szalloda_az": "TA",
+  "indulas": {
+   "$date": "2011-03-09T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 125900
+ },
+ {
+  "sorszam": 443,
+  "szalloda_az": "TA",
+  "indulas": {
+   "$date": "2011-03-09T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 194900
+ },
+ {
+  "sorszam": 444,
+  "szalloda_az": "TA",
+  "indulas": {
+   "$date": "2011-03-16T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 125900
+ },
+ {
+  "sorszam": 445,
+  "szalloda_az": "TA",
+  "indulas": {
+   "$date": "2011-03-16T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 200900
+ },
+ {
+  "sorszam": 446,
+  "szalloda_az": "TA",
+  "indulas": {
+   "$date": "2011-03-23T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 129900
+ },
+ {
+  "sorszam": 447,
+  "szalloda_az": "TA",
+  "indulas": {
+   "$date": "2011-03-23T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 209900
+ },
+ {
+  "sorszam": 448,
+  "szalloda_az": "TA",
+  "indulas": {
+   "$date": "2011-03-30T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 134900
+ },
+ {
+  "sorszam": 449,
+  "szalloda_az": "TA",
+  "indulas": {
+   "$date": "2011-03-30T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 230900
+ },
+ {
+  "sorszam": 450,
+  "szalloda_az": "TA",
+  "indulas": {
+   "$date": "2011-04-06T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 149900
+ },
+ {
+  "sorszam": 451,
+  "szalloda_az": "TA",
+  "indulas": {
+   "$date": "2011-04-06T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 253900
+ },
+ {
+  "sorszam": 452,
+  "szalloda_az": "TA",
+  "indulas": {
+   "$date": "2011-04-13T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 157900
+ },
+ {
+  "sorszam": 453,
+  "szalloda_az": "TA",
+  "indulas": {
+   "$date": "2011-04-13T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 230900
+ },
+ {
+  "sorszam": 454,
+  "szalloda_az": "TA",
+  "indulas": {
+   "$date": "2011-04-20T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 125900
+ },
+ {
+  "sorszam": 455,
+  "szalloda_az": "TA",
+  "indulas": {
+   "$date": "2011-04-20T00:00:00Z"
+  },
+  "idotartam": 15,
+  "ar": 200900
+ },
+ {
+  "sorszam": 456,
+  "szalloda_az": "TA",
+  "indulas": {
+   "$date": "2011-04-27T00:00:00Z"
+  },
+  "idotartam": 8,
+  "ar": 125900
+ }
+]

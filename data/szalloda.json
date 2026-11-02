@@ -1,0 +1,110 @@
+[
+  {
+    "az": "BS",
+    "nev": "Baron Resort",
+    "besorolas": 5,
+    "helyseg_az": 3,
+    "tengerpart_tav": 0,
+    "repter_tav": 15,
+    "felpanzio": true
+  },
+  {
+    "az": "CL",
+    "nev": "Charm Life",
+    "besorolas": 3,
+    "helyseg_az": 4,
+    "tengerpart_tav": 0,
+    "repter_tav": 33,
+    "felpanzio": false
+  },
+  {
+    "az": "CP",
+    "nev": "Cesar Palace",
+    "besorolas": 5,
+    "helyseg_az": 2,
+    "tengerpart_tav": 250,
+    "repter_tav": 27,
+    "felpanzio": true
+  },
+  {
+    "az": "CW",
+    "nev": "Caribbean World Soma Bay",
+    "besorolas": 5,
+    "helyseg_az": 4,
+    "tengerpart_tav": 0,
+    "repter_tav": 55,
+    "felpanzio": false
+  },
+  {
+    "az": "CZ",
+    "nev": "Crowne Plaza",
+    "besorolas": 4,
+    "helyseg_az": 3,
+    "tengerpart_tav": 400,
+    "repter_tav": 9,
+    "felpanzio": true
+  },
+  {
+    "az": "FJ",
+    "nev": "Festival Le Jardin Resort",
+    "besorolas": 4,
+    "helyseg_az": 4,
+    "tengerpart_tav": 0,
+    "repter_tav": 17,
+    "felpanzio": false
+  },
+  {
+    "az": "HB",
+    "nev": "Lti Holiday Beach Resort",
+    "besorolas": 4,
+    "helyseg_az": 2,
+    "tengerpart_tav": 100,
+    "repter_tav": 20,
+    "felpanzio": true
+  },
+  {
+    "az": "JR",
+    "nev": "Jinene Resort",
+    "besorolas": 4,
+    "helyseg_az": 1,
+    "tengerpart_tav": 50,
+    "repter_tav": 25,
+    "felpanzio": true
+  },
+  {
+    "az": "MB",
+    "nev": "Marhaba",
+    "besorolas": 3,
+    "helyseg_az": 1,
+    "tengerpart_tav": 0,
+    "repter_tav": 25,
+    "felpanzio": true
+  },
+  {
+    "az": "MD",
+    "nev": "Miramar Djerba",
+    "besorolas": 3,
+    "helyseg_az": 2,
+    "tengerpart_tav": 300,
+    "repter_tav": 22,
+    "felpanzio": true
+  },
+  {
+    "az": "MP",
+    "nev": "El Mouradi Palace",
+    "besorolas": 5,
+    "helyseg_az": 1,
+    "tengerpart_tav": 0,
+    "repter_tav": 35,
+    "felpanzio": true
+  },
+  {
+    "az": "TA",
+    "nev": "Tropicana Azur",
+    "besorolas": 4,
+    "helyseg_az": 3,
+    "tengerpart_tav": 400,
+    "repter_tav": 9,
+    "felpanzio": false
+  }
+]
