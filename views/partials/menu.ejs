@@ -1,0 +1,17 @@
+<!-- Menü – a jogosultságok szerint -->
+<nav id="menu">
+	<header class="major">
+		<h2>Menü</h2>
+	</header>
+	<ul>
+		<li><a href="/">Home</a></li>
+		<% if(user){ %><li><a href="/user">User</a></li><% } %>
+		<% if(user && user.role=="admin"){ %><li><a href="/admin">Admin</a></li><% } %>
+		<% if(!user){ %>
+			<li><a href="/login">Login</a></li>
+			<li><a href="/register">Register</a></li>
+		<% } else { %>
+			<li><a href="/logout">Logout (<%= user.username %>)</a></li>
+		<% } %>
+	</ul>
+</nav>
