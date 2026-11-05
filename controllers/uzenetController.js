@@ -23,3 +23,8 @@ exports.kapcsolatPost = async (req, res) => {
         res.status(500).send("Szerverhiba történt.");
     }
 };
+
+exports.uzenetekIndex = async (req, res) => {
+    const uzenetek = await Uzenet.find().sort({ kuldes_ideje: -1 });
+    res.render("uzenetek", { uzenetek });
+};

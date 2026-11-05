@@ -19,4 +19,5 @@ router.post("/login", controller.loginPost);
 router.get("/logout", controller.logout);
 router.get("/kapcsolat", uzenetController.kapcsolatGet);
 router.post("/kapcsolat", uzenetController.kapcsolatPost);
+router.get("/uzenetek", isLoggedIn, uzenetController.uzenetekIndex);
 module.exports = router;

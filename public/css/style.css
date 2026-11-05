@@ -26,3 +26,11 @@
 form .field {
     margin-bottom: 1.5em;
 }
+
+.nem-tor {
+    white-space: nowrap;
+}
+
+.uzenet-szoveg {
+    white-space: pre-wrap;
+}
