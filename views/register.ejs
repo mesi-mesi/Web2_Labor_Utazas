@@ -1,8 +1,15 @@
 <%- include("partials/header") %>
+<h1>Regisztráció</h1>
 <% if(message){ %><p class="message"><%= message %></p><% } %>
 <form method="POST">
-    <input name="username" placeholder="Username">
-    <input type="password" name="password" placeholder="Password">
-    <button>Registration</button>
+    <div class="field">
+        <label for="username">Felhasználónév (legalább 3 karakter)</label>
+        <input id="username" name="username" required>
+    </div>
+    <div class="field">
+        <label for="password">Jelszó (legalább 6 karakter)</label>
+        <input id="password" type="password" name="password" required>
+    </div>
+    <button class="button primary">Regisztráció</button>
 </form>
 <%- include("partials/footer") %>
