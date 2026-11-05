@@ -1,0 +1,35 @@
+<%- include("../partials/header") %>
+<h1>Szállodák</h1>
+<% if(szallodak.length === 0){ %>
+    <p>Nincs szálloda az adatbázisban.</p>
+<% } else { %>
+    <div class="table-wrapper">
+        <table>
+            <thead>
+                <tr>
+                    <th>Azonosító</th>
+                    <th>Név</th>
+                    <th>Besorolás</th>
+                    <th>Helység</th>
+                    <th>Tengerpart (m)</th>
+                    <th>Repülőtér (km)</th>
+                    <th>Ellátás</th>
+                </tr>
+            </thead>
+            <tbody>
+                <% szallodak.forEach(szalloda => { %>
+                    <tr>
+                        <td><%= szalloda.az %></td>
+                        <td><%= szalloda.nev %></td>
+                        <td><%= szalloda.besorolas %> csillag</td>
+                        <td><%= szalloda.helyseg ? `${szalloda.helyseg.nev} (${szalloda.helyseg.orszag})` : "–" %></td>
+                        <td><%= szalloda.tengerpart_tav %></td>
+                        <td><%= szalloda.repter_tav %></td>
+                        <td><%= szalloda.felpanzio ? "félpanzió" : "teljes ellátás" %></td>
+                    </tr>
+                <% }) %>
+            </tbody>
+        </table>
+    </div>
+<% } %>
+<%- include("../partials/footer") %>

@@ -1,6 +1,7 @@
 const router = require("express").Router();
 const controller = require("../controllers/mainController");
 const uzenetController = require("../controllers/uzenetController");
+const szallodaController = require("../controllers/szallodaController");
 
 isLoggedIn=(req,res,next)=>{
     if(req.session.user){return next();}
@@ -20,4 +21,5 @@ router.get("/logout", controller.logout);
 router.get("/kapcsolat", uzenetController.kapcsolatGet);
 router.post("/kapcsolat", uzenetController.kapcsolatPost);
 router.get("/uzenetek", isLoggedIn, uzenetController.uzenetekIndex);
+router.get("/crud", isAdmin, szallodaController.index);
 module.exports = router;
