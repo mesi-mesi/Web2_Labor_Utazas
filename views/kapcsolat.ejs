@@ -1,0 +1,28 @@
+<%- include("partials/header") %>
+<h1>Kapcsolat</h1>
+<p>Kérdése van az utazásainkkal kapcsolatban? Írjon nekünk!</p>
+<% if(message){ %><p class="message siker"><%= message %></p><% } %>
+<form method="POST" action="/kapcsolat" novalidate>
+    <div class="field">
+        <label for="nev">Név</label>
+        <input id="nev" type="text" name="nev" value="<%= adat.nev || "" %>">
+        <% if(errors.nev){ %><p class="hiba"><%= errors.nev.message %></p><% } %>
+    </div>
+    <div class="field">
+        <label for="email">E-mail cím</label>
+        <input id="email" type="email" name="email" value="<%= adat.email || "" %>">
+        <% if(errors.email){ %><p class="hiba"><%= errors.email.message %></p><% } %>
+    </div>
+    <div class="field">
+        <label for="targy">Tárgy</label>
+        <input id="targy" type="text" name="targy" value="<%= adat.targy || "" %>">
+        <% if(errors.targy){ %><p class="hiba"><%= errors.targy.message %></p><% } %>
+    </div>
+    <div class="field">
+        <label for="szoveg">Üzenet</label>
+        <textarea id="szoveg" name="szoveg" rows="6"><%= adat.szoveg || "" %></textarea>
+        <% if(errors.szoveg){ %><p class="hiba"><%= errors.szoveg.message %></p><% } %>
+    </div>
+    <button class="button primary">Küldés</button>
+</form>
+<%- include("partials/footer") %>
