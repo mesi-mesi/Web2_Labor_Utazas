@@ -1,5 +1,9 @@
 <%- include("../partials/header") %>
 <h1>Szállodák</h1>
+<% if(message){ %><p class="message siker"><%= message %></p><% } %>
+<ul class="actions">
+    <li><a href="/crud/uj" class="button primary">Új szálloda</a></li>
+</ul>
 <% if(szallodak.length === 0){ %>
     <p>Nincs szálloda az adatbázisban.</p>
 <% } else { %>

@@ -1,5 +1,5 @@
 // Az Utazás adatok betöltése a MongoDB Atlasba. Futtatás: node seed.js
-// A helyseg, szalloda és tavasz kollekciókat törli és újratölti!
+
 require("dotenv").config();
 const fs = require("fs");
 const mongoose = require("mongoose");

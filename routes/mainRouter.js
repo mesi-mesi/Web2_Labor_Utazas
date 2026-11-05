@@ -22,4 +22,6 @@ router.get("/kapcsolat", uzenetController.kapcsolatGet);
 router.post("/kapcsolat", uzenetController.kapcsolatPost);
 router.get("/uzenetek", isLoggedIn, uzenetController.uzenetekIndex);
 router.get("/crud", isAdmin, szallodaController.index);
+router.get("/crud/uj", isAdmin, szallodaController.newForm);
+router.post("/crud", isAdmin, szallodaController.create);
 module.exports = router;
