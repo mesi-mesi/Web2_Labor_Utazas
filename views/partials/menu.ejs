@@ -4,14 +4,19 @@
 		<h2>Menü</h2>
 	</header>
 	<ul>
-		<li><a href="/">Home</a></li>
-		<% if(user){ %><li><a href="/user">User</a></li><% } %>
-		<% if(user && user.role=="admin"){ %><li><a href="/admin">Admin</a></li><% } %>
+		<li><a href="/">Főoldal</a></li>
+		<li><a href="/adatbazis">Adatbázis</a></li>
+		<li><a href="/kapcsolat">Kapcsolat</a></li>
+		<% if(user){ %>
+			<li><a href="/diagram">Diagram</a></li>
+			<li><a href="/uzenetek">Üzenetek</a></li>
+		<% } %>
+		<% if(user && user.role=="admin"){ %><li><a href="/crud">CRUD</a></li><% } %>
 		<% if(!user){ %>
-			<li><a href="/login">Login</a></li>
-			<li><a href="/register">Register</a></li>
+			<li><a href="/login">Bejelentkezés</a></li>
+			<li><a href="/register">Regisztráció</a></li>
 		<% } else { %>
-			<li><a href="/logout">Logout (<%= user.username %>)</a></li>
+			<li><a href="/logout">Kijelentkezés (<%= user.username %>)</a></li>
 		<% } %>
 	</ul>
 </nav>

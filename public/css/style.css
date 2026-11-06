@@ -12,3 +12,30 @@
     font-size: 0.9em;
     color: #7f888f;
 }
+
+.message.siker {
+    color: #3c9a5f;
+}
+
+.hiba {
+    color: #f56a6a;
+    margin: 0.5em 0 0 0;
+    font-size: 0.9em;
+}
+
+form .field {
+    margin-bottom: 1.5em;
+}
+
+.nem-tor {
+    white-space: nowrap;
+}
+
+.uzenet-szoveg {
+    white-space: pre-wrap;
+}
+
+.torles {
+    display: inline;
+    margin: 0 0 0 0.5em;
+}

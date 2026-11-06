@@ -1,8 +1,15 @@
 <%- include("partials/header") %>
+<h1>Bejelentkezés</h1>
 <% if(message){ %><p class="message"><%= message %></p><% } %>
 <form method="POST">
-    <input name="username">
-    <input type="password" name="password">
-    <button>Login</button>
+    <div class="field">
+        <label for="username">Felhasználónév</label>
+        <input id="username" type="text" name="username" required>
+    </div>
+    <div class="field">
+        <label for="password">Jelszó</label>
+        <input id="password" type="password" name="password" required>
+    </div>
+    <button class="button primary">Bejelentkezés</button>
 </form>
 <%- include("partials/footer") %>

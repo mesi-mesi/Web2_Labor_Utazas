@@ -1,0 +1,48 @@
+<%- include("../partials/header") %>
+<h1>Szállodák</h1>
+<% if(message){ %><p class="message siker"><%= message %></p><% } %>
+<% if(hiba){ %><p class="message"><%= hiba %></p><% } %>
+<ul class="actions">
+    <li><a href="/crud/uj" class="button primary">Új szálloda</a></li>
+</ul>
+<% if(szallodak.length === 0){ %>
+    <p>Nincs szálloda az adatbázisban.</p>
+<% } else { %>
+    <div class="table-wrapper">
+        <table>
+            <thead>
+                <tr>
+                    <th>Azonosító</th>
+                    <th>Név</th>
+                    <th>Besorolás</th>
+                    <th>Helység</th>
+                    <th>Tengerpart (m)</th>
+                    <th>Repülőtér (km)</th>
+                    <th>Ellátás</th>
+                    <th>Műveletek</th>
+                </tr>
+            </thead>
+            <tbody>
+                <% szallodak.forEach(szalloda => { %>
+                    <tr>
+                        <td><%= szalloda.az %></td>
+                        <td><%= szalloda.nev %></td>
+                        <td><%= szalloda.besorolas %> csillag</td>
+                        <td><%= szalloda.helyseg ? `${szalloda.helyseg.nev} (${szalloda.helyseg.orszag})` : "–" %></td>
+                        <td><%= szalloda.tengerpart_tav %></td>
+                        <td><%= szalloda.repter_tav %></td>
+                        <td><%= szalloda.felpanzio ? "félpanzió" : "teljes ellátás" %></td>
+                        <td class="nem-tor">
+                            <a href="/crud/<%= szalloda._id %>/szerkeszt" class="button small">Szerkesztés</a>
+                            <form method="POST" action="/crud/<%= szalloda._id %>/torol" class="torles"
+                                onsubmit="return confirm(<%= JSON.stringify(`Biztosan törli a(z) ${szalloda.nev} szállodát?`) %>)">
+                                <button class="button small">Törlés</button>
+                            </form>
+                        </td>
+                    </tr>
+                <% }) %>
+            </tbody>
+        </table>
+    </div>
+<% } %>
+<%- include("../partials/footer") %>

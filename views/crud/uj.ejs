@@ -1,0 +1,57 @@
+<%- include("../partials/header") %>
+<h1>Új szálloda</h1>
+<form method="POST" action="/crud" novalidate>
+    <div class="field">
+        <label for="az">Azonosító (2 betű)</label>
+        <input id="az" type="text" name="az" maxlength="2" value="<%= adat.az || "" %>">
+        <% if(errors.az){ %><p class="hiba"><%= errors.az.message %></p><% } %>
+    </div>
+    <div class="field">
+        <label for="nev">Név</label>
+        <input id="nev" type="text" name="nev" value="<%= adat.nev || "" %>">
+        <% if(errors.nev){ %><p class="hiba"><%= errors.nev.message %></p><% } %>
+    </div>
+    <div class="field">
+        <label for="besorolas">Besorolás</label>
+        <select id="besorolas" name="besorolas">
+            <option value="">– válasszon –</option>
+            <% [1, 2, 3, 4, 5].forEach(cs => { %>
+                <option value="<%= cs %>" <%= adat.besorolas == cs ? "selected" : "" %>><%= cs %> csillag</option>
+            <% }) %>
+        </select>
+        <% if(errors.besorolas){ %><p class="hiba"><%= errors.besorolas.message %></p><% } %>
+    </div>
+    <div class="field">
+        <label for="helyseg_az">Helység</label>
+        <select id="helyseg_az" name="helyseg_az">
+            <option value="">– válasszon –</option>
+            <% helysegek.forEach(h => { %>
+                <option value="<%= h.az %>" <%= adat.helyseg_az == h.az ? "selected" : "" %>><%= h.nev %> (<%= h.orszag %>)</option>
+            <% }) %>
+        </select>
+        <% if(errors.helyseg_az){ %><p class="hiba"><%= errors.helyseg_az.message %></p><% } %>
+    </div>
+    <div class="field">
+        <label for="tengerpart_tav">Tengerpart távolsága (m)</label>
+        <input id="tengerpart_tav" type="text" inputmode="numeric" name="tengerpart_tav" value="<%= adat.tengerpart_tav || "" %>">
+        <% if(errors.tengerpart_tav){ %><p class="hiba"><%= errors.tengerpart_tav.message %></p><% } %>
+    </div>
+    <div class="field">
+        <label for="repter_tav">Repülőtér távolsága (km)</label>
+        <input id="repter_tav" type="text" inputmode="numeric" name="repter_tav" value="<%= adat.repter_tav || "" %>">
+        <% if(errors.repter_tav){ %><p class="hiba"><%= errors.repter_tav.message %></p><% } %>
+    </div>
+    <div class="field">
+        <label for="felpanzio">Ellátás</label>
+        <select id="felpanzio" name="felpanzio">
+            <option value="false" <%= adat.felpanzio === "true" ? "" : "selected" %>>teljes ellátás</option>
+            <option value="true" <%= adat.felpanzio === "true" ? "selected" : "" %>>félpanzió</option>
+        </select>
+        <% if(errors.felpanzio){ %><p class="hiba"><%= errors.felpanzio.message %></p><% } %>
+    </div>
+    <ul class="actions">
+        <li><button class="button primary">Mentés</button></li>
+        <li><a href="/crud" class="button">Mégse</a></li>
+    </ul>
+</form>
+<%- include("../partials/footer") %>
