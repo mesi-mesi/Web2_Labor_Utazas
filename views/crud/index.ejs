@@ -18,6 +18,7 @@
                     <th>Tengerpart (m)</th>
                     <th>Repülőtér (km)</th>
                     <th>Ellátás</th>
+                    <th>Műveletek</th>
                 </tr>
             </thead>
             <tbody>
@@ -30,6 +31,9 @@
                         <td><%= szalloda.tengerpart_tav %></td>
                         <td><%= szalloda.repter_tav %></td>
                         <td><%= szalloda.felpanzio ? "félpanzió" : "teljes ellátás" %></td>
+                        <td class="nem-tor">
+                            <a href="/crud/<%= szalloda._id %>/szerkeszt" class="button small">Szerkesztés</a>
+                        </td>
                     </tr>
                 <% }) %>
             </tbody>

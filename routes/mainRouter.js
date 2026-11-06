@@ -24,4 +24,6 @@ router.get("/uzenetek", isLoggedIn, uzenetController.uzenetekIndex);
 router.get("/crud", isAdmin, szallodaController.index);
 router.get("/crud/uj", isAdmin, szallodaController.newForm);
 router.post("/crud", isAdmin, szallodaController.create);
+router.get("/crud/:id/szerkeszt", isAdmin, szallodaController.editForm);
+router.post("/crud/:id", isAdmin, szallodaController.update);
 module.exports = router;
