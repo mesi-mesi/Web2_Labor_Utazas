@@ -34,3 +34,8 @@ form .field {
 .uzenet-szoveg {
     white-space: pre-wrap;
 }
+
+.torles {
+    display: inline;
+    margin: 0 0 0 0.5em;
+}

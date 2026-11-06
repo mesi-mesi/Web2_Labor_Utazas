@@ -1,6 +1,7 @@
 const mongoose = require("mongoose");
 const Szalloda = require("../models/Szalloda");
 const Helyseg = require("../models/Helyseg");
+const Ut = require("../models/Ut");
 
 // Az űrlap mezői
 function urlapAdat(body) {
@@ -17,7 +18,10 @@ function urlapAdat(body) {
 
 exports.index = async (req, res) => {
     const szallodak = await Szalloda.find().populate("helyseg").sort({ nev: 1 }).collation({ locale: "hu" });
-    res.render("crud/index", { szallodak });
+    // hibaüzenet (piros), ha a törlés nem sikerült; egyszer jelenik meg, mint a message
+    const hiba = req.session.hiba || "";
+    req.session.hiba = "";
+    res.render("crud/index", { szallodak, hiba });
 };
 
 // GET /crud/uj
@@ -102,4 +106,19 @@ exports.update = async (req, res) => {
         console.error(err);
         res.status(500).send("Szerverhiba történt.");
     }
+};
+
+// POST /crud/:id/torol
+exports.delete = async (req, res) => {
+    const szalloda = await keresSzalloda(req.params.id);
+    if (!szalloda) { return res.status(404).send("Nincs ilyen szálloda."); }
+    // ha út hivatkozik a szállodára, nem törölhető
+    const utakSzama = await Ut.countDocuments({ szalloda_az: szalloda.az });
+    if (utakSzama > 0) {
+        req.session.hiba = `A(z) ${szalloda.nev} szálloda nem törölhető, mert ${utakSzama} út tartozik hozzá.`;
+        return res.redirect("/crud");
+    }
+    await Szalloda.findByIdAndDelete(szalloda._id);
+    req.session.message = `A(z) ${szalloda.nev} szálloda törlése sikerült.`;
+    res.redirect("/crud");
 };

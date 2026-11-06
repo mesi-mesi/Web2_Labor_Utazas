@@ -26,4 +26,5 @@ router.get("/crud/uj", isAdmin, szallodaController.newForm);
 router.post("/crud", isAdmin, szallodaController.create);
 router.get("/crud/:id/szerkeszt", isAdmin, szallodaController.editForm);
 router.post("/crud/:id", isAdmin, szallodaController.update);
+router.post("/crud/:id/torol", isAdmin, szallodaController.delete);
 module.exports = router;

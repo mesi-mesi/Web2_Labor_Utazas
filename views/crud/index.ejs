@@ -1,6 +1,7 @@
 <%- include("../partials/header") %>
 <h1>Szállodák</h1>
 <% if(message){ %><p class="message siker"><%= message %></p><% } %>
+<% if(hiba){ %><p class="message"><%= hiba %></p><% } %>
 <ul class="actions">
     <li><a href="/crud/uj" class="button primary">Új szálloda</a></li>
 </ul>
@@ -33,6 +34,10 @@
                         <td><%= szalloda.felpanzio ? "félpanzió" : "teljes ellátás" %></td>
                         <td class="nem-tor">
                             <a href="/crud/<%= szalloda._id %>/szerkeszt" class="button small">Szerkesztés</a>
+                            <form method="POST" action="/crud/<%= szalloda._id %>/torol" class="torles"
+                                onsubmit="return confirm(<%= JSON.stringify(`Biztosan törli a(z) ${szalloda.nev} szállodát?`) %>)">
+                                <button class="button small">Törlés</button>
+                            </form>
                         </td>
                     </tr>
                 <% }) %>
