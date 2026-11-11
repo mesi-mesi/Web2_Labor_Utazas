@@ -1,0 +1,76 @@
+<%- include("partials/header") %>
+<h1>Utazási ajánlatok</h1>
+<p>A Napfény Tours 2011-es tavaszi ajánlatai. Az adatok három táblából származnak:
+<strong>tavasz</strong> (utak), <strong>szalloda</strong> (szállodák) és <strong>helyseg</strong> (helységek).</p>
+
+<form method="GET" action="/adatbazis">
+    <div class="row gtr-uniform">
+        <div class="col-4 col-12-small">
+            <label for="orszag">Ország</label>
+            <select id="orszag" name="orszag">
+                <option value="">– mind –</option>
+                <% orszagok.forEach(o => { %>
+                    <option value="<%= o %>" <%= o === orszag ? "selected" : "" %>><%= o %></option>
+                <% }) %>
+            </select>
+        </div>
+        <div class="col-4 col-12-small">
+            <label for="szalloda">Szálloda</label>
+            <select id="szalloda" name="szalloda">
+                <option value="">– mind –</option>
+                <% szallodak.forEach(sz => { %>
+                    <option value="<%= sz.az %>" <%= sz.az === szallodaAz ? "selected" : "" %>><%= sz.nev %></option>
+                <% }) %>
+            </select>
+        </div>
+        <div class="col-4 col-12-small">
+            <label>&nbsp;</label>
+            <ul class="actions">
+                <li><button class="button primary">Szűrés</button></li>
+                <li><a href="/adatbazis" class="button">Összes</a></li>
+            </ul>
+        </div>
+    </div>
+</form>
+
+<p><strong><%= utak.length %></strong> utazási ajánlat</p>
+
+<% if(utak.length === 0){ %>
+    <p>Nincs a feltételeknek megfelelő út.</p>
+<% } else { %>
+    <div class="table-wrapper">
+        <table>
+            <thead>
+                <tr>
+                    <th>Indulás</th>
+                    <th>Időtartam</th>
+                    <th>Ár (Ft/fő)</th>
+                    <th>Szálloda</th>
+                    <th>Besorolás</th>
+                    <th>Ellátás</th>
+                    <th>Helység</th>
+                    <th>Ország</th>
+                </tr>
+            </thead>
+            <tbody>
+                <% utak.forEach(ut => { %>
+                    <tr>
+                        <td class="nem-tor"><%= ut.indulas.toLocaleDateString("hu-HU", { timeZone: "UTC" }) %></td>
+                        <td><%= ut.idotartam %> nap</td>
+                        <td class="nem-tor"><%= ut.ar.toLocaleString("hu-HU") %></td>
+                        <% if(ut.szalloda){ %>
+                            <td><%= ut.szalloda.nev %></td>
+                            <td><%= ut.szalloda.besorolas %> csillag</td>
+                            <td><%= ut.szalloda.felpanzio ? "félpanzió" : "teljes ellátás" %></td>
+                            <td><%= ut.szalloda.helyseg ? ut.szalloda.helyseg.nev : "–" %></td>
+                            <td><%= ut.szalloda.helyseg ? ut.szalloda.helyseg.orszag : "–" %></td>
+                        <% } else { %>
+                            <td colspan="5">ismeretlen szálloda (<%= ut.szalloda_az %>)</td>
+                        <% } %>
+                    </tr>
+                <% }) %>
+            </tbody>
+        </table>
+    </div>
+<% } %>
+<%- include("partials/footer") %>
