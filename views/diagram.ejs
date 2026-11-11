@@ -1,0 +1,48 @@
+<%- include("partials/header") %>
+<h1>Diagram</h1>
+<p>A szállodák átlagos ára (Ft/fő) a 8 és a 15 napos utakra, a <strong>tavasz</strong> tábla
+456 útja alapján. Az átlagokat a MongoDB aggregációval számolja, a szállodák neve és helysége
+a <strong>szalloda</strong> és a <strong>helyseg</strong> táblából jön.</p>
+
+<% if(adatok.length === 0){ %>
+    <p>Nincs megjeleníthető adat.</p>
+<% } else { %>
+    <div style="position: relative; height: <%= adatok.length * 45 + 80 %>px;">
+        <canvas id="arDiagram"></canvas>
+    </div>
+
+    <!-- Chart.js CDN-ről -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+    <script>
+        // az adatbázisból jött adatok (a < jelet kódoljuk, hogy egy szállodanév ne zárhassa le a script taget)
+        const adatok = <%- JSON.stringify(adatok).replace(/</g, "\\u003c") %>;
+        const ft = (ertek) => ertek.toLocaleString("hu-HU") + " Ft";
+
+        new Chart(document.getElementById("arDiagram"), {
+            type: "bar",
+            data: {
+                labels: adatok.map(a => a.nev),
+                datasets: [
+                    { label: "8 napos út", data: adatok.map(a => a.nap8), backgroundColor: "#f56a6a" },
+                    { label: "15 napos út", data: adatok.map(a => a.nap15), backgroundColor: "#3d4449" }
+                ]
+            },
+            options: {
+                indexAxis: "y",                 // vízszintes oszlopok
+                responsive: true,
+                maintainAspectRatio: false,
+                plugins: {
+                    title: { display: true, text: "Átlagár szállodánként (Ft/fő)" },
+                    tooltip: { callbacks: { label: (c) => `${c.dataset.label}: ${ft(c.raw)}` } }
+                },
+                scales: {
+                    x: {
+                        title: { display: true, text: "Átlagár (Ft/fő)" },
+                        ticks: { callback: (ertek) => ertek.toLocaleString("hu-HU") }
+                    }
+                }
+            }
+        });
+    </script>
+<% } %>
+<%- include("partials/footer") %>
