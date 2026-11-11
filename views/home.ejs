@@ -1,4 +1,97 @@
 <%- include("partials/header") %>
-<h1>Home</h1>
-<p>Available to all visitors.</p>
+<%
+    // a helységekhez tartozó kép és rövid leírás
+    const leirasok = {
+        "Sousse": { kep: "sousse.jpg", szoveg: "Tunézia keleti partjának üdülővárosa hosszú homokos stranddal. Óvárosa, a medina, az UNESCO világörökség része." },
+        "Djerba": { kep: "djerba.jpg", szoveg: "Sziget Tunézia déli részén, a Gábesi-öbölben. Pálmafás strandjai mellett híres látnivalója az El Ghriba zsinagóga, Afrika egyik legrégebbi zsinagógája." },
+        "Sharm El Sheikh": { kep: "sharm.jpg", szoveg: "A Sínai-félsziget déli csücskén fekvő üdülőváros a Vörös-tenger partján, a búvárok és sznorkelezők kedvence." },
+        "Hurghada": { kep: "hurghada.jpg", szoveg: "Egyiptom Vörös-tengeri üdülővárosa korallzátonyokkal, kristálytiszta vízzel és egész évben napsütéssel." }
+    };
+%>
+
+<!-- Banner -->
+<section id="banner">
+    <div class="content">
+        <header>
+            <h1>Napfény Tours<br />tavaszi utazások</h1>
+            <p>Tengerpart, napsütés, all inclusive – Tunéziában és Egyiptomban</p>
+        </header>
+        <p>Utazási irodánk tavaszi kínálatában Tunézia és Egyiptom legnépszerűbb tengerparti
+        üdülőhelyei szerepelnek: 8, 11, 12 és 15 napos utak válogatott szállodákba, félpanzióval
+        vagy teljes ellátással. Böngésszen ajánlataink között, és ha kérdése van, írjon nekünk!</p>
+        <ul class="actions">
+            <li><a href="/adatbazis" class="button big primary">Ajánlatok</a></li>
+            <li><a href="/kapcsolat" class="button big">Kapcsolat</a></li>
+        </ul>
+    </div>
+    <span class="image object">
+        <img src="/images/banner.jpg" alt="Tengerpart" />
+    </span>
+</section>
+
+<hr class="major" />
+
+<!-- Számokban – élő adatok az adatbázisból -->
+<header class="major">
+    <h2>Számokban</h2>
+</header>
+<div class="features">
+    <article>
+        <span class="icon solid fa-map-marker-alt"></span>
+        <div class="content">
+            <h3><%= varosok.length %> úti cél</h3>
+            <p>Két ország: Tunézia és Egyiptom legszebb tengerparti üdülőhelyei.</p>
+        </div>
+    </article>
+    <article>
+        <span class="icon solid fa-hotel"></span>
+        <div class="content">
+            <h3><%= szallodaSzam %> szálloda</h3>
+            <p>Gondosan válogatott, 1–5 csillagos szállodák, sokuk közvetlenül a tengerparton.</p>
+        </div>
+    </article>
+    <article>
+        <span class="icon solid fa-plane-departure"></span>
+        <div class="content">
+            <h3><%= utakSzama %> utazási ajánlat</h3>
+            <p>Indulások januártól áprilisig, 8, 11, 12 és 15 napos időtartammal.</p>
+        </div>
+    </article>
+    <article>
+        <span class="icon solid fa-tag"></span>
+        <div class="content">
+            <% if(legolcsobb){ %>
+                <h3><%= legolcsobb.ar.toLocaleString("hu-HU") %> Ft-tól</h3>
+                <p>Legkedvezőbb ajánlatunk: <%= legolcsobb.idotartam %> nap
+                <%= legolcsobb.szalloda ? "– " + legolcsobb.szalloda.nev : "" %>,
+                indulás <%= legolcsobb.indulas.toLocaleDateString("hu-HU", { timeZone: "UTC" }) %></p>
+            <% } else { %>
+                <h3>Kedvező árak</h3>
+                <p>Hamarosan új ajánlatok érkeznek.</p>
+            <% } %>
+        </div>
+    </article>
+</div>
+
+<hr class="major" />
+
+<!-- Úti célok -->
+<header class="major">
+    <h2>Úti céljaink</h2>
+</header>
+<div class="posts">
+    <% varosok.forEach(v => { const l = leirasok[v.nev] || { kep: "pic01.jpg", szoveg: "" }; %>
+        <article>
+            <a href="/adatbazis?orszag=<%= encodeURIComponent(v.orszag) %>" class="image">
+                <img src="/images/<%= l.kep %>" alt="<%= v.nev %>" />
+            </a>
+            <h3><%= v.nev %> <small>(<%= v.orszag %>)</small></h3>
+            <p><%= l.szoveg %></p>
+            <p><strong><%= v.szallodaSzam %></strong> szálloda</p>
+            <ul class="actions">
+                <li><a href="/adatbazis?orszag=<%= encodeURIComponent(v.orszag) %>" class="button">Ajánlatok</a></li>
+            </ul>
+        </article>
+    <% }) %>
+</div>
 <%- include("partials/footer") %>

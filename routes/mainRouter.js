@@ -4,6 +4,7 @@ const uzenetController = require("../controllers/uzenetController");
 const szallodaController = require("../controllers/szallodaController");
 const adatbazisController = require("../controllers/adatbazisController");
 const diagramController = require("../controllers/diagramController");
+const homeController = require("../controllers/homeController");
 
 isLoggedIn=(req,res,next)=>{
     if(req.session.user){return next();}
@@ -14,7 +15,7 @@ isAdmin=(req,res,next)=>{
     res.redirect("/");
 }
 
-router.get("/", controller.homeIndex);
+router.get("/", homeController.index);
 router.get("/adatbazis", adatbazisController.index);
 router.get("/diagram", isLoggedIn, diagramController.index);
 router.get("/register", controller.registerGet);

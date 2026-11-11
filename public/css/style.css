@@ -39,3 +39,9 @@ form .field {
     display: inline;
     margin: 0 0 0 0.5em;
 }
+
+/* Főoldal – úti célok: egyforma képarány */
+.posts .image img {
+    aspect-ratio: 4 / 3;
+    object-fit: cover;
+}
