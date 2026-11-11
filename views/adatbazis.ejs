@@ -5,7 +5,7 @@
 
 <form method="GET" action="/adatbazis">
     <div class="row gtr-uniform">
-        <div class="col-4 col-12-small">
+        <div class="col-3 col-12-small">
             <label for="orszag">Ország</label>
             <select id="orszag" name="orszag">
                 <option value="">– mind –</option>
@@ -14,7 +14,16 @@
                 <% }) %>
             </select>
         </div>
-        <div class="col-4 col-12-small">
+        <div class="col-3 col-12-small">
+            <label for="helyseg">Helység</label>
+            <select id="helyseg" name="helyseg">
+                <option value="">– mind –</option>
+                <% helysegek.forEach(h => { %>
+                    <option value="<%= h.az %>" <%= String(h.az) === helysegAz ? "selected" : "" %>><%= h.nev %> (<%= h.orszag %>)</option>
+                <% }) %>
+            </select>
+        </div>
+        <div class="col-3 col-12-small">
             <label for="szalloda">Szálloda</label>
             <select id="szalloda" name="szalloda">
                 <option value="">– mind –</option>
@@ -23,7 +32,7 @@
                 <% }) %>
             </select>
         </div>
-        <div class="col-4 col-12-small">
+        <div class="col-3 col-12-small">
             <label>&nbsp;</label>
             <ul class="actions">
                 <li><button class="button primary">Szűrés</button></li>

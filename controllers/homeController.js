@@ -11,6 +11,7 @@ exports.index = async (req, res) => {
 
     // helységenként a szállodák száma
     const varosok = helysegek.map(h => ({
+        az: h.az,
         nev: h.nev,
         orszag: h.orszag,
         szallodaSzam: szallodak.filter(sz => sz.helyseg_az === h.az).length

@@ -80,16 +80,16 @@
     <h2>Úti céljaink</h2>
 </header>
 <div class="posts">
-    <% varosok.forEach(v => { const l = leirasok[v.nev] || { kep: "pic01.jpg", szoveg: "" }; %>
+    <% varosok.forEach(v => { const l = leirasok[v.nev] || { kep: "banner.jpg", szoveg: "" }; %>
         <article>
-            <a href="/adatbazis?orszag=<%= encodeURIComponent(v.orszag) %>" class="image">
+            <a href="/adatbazis?helyseg=<%= v.az %>" class="image">
                 <img src="/images/<%= l.kep %>" alt="<%= v.nev %>" />
             </a>
             <h3><%= v.nev %> <small>(<%= v.orszag %>)</small></h3>
             <p><%= l.szoveg %></p>
             <p><strong><%= v.szallodaSzam %></strong> szálloda</p>
             <ul class="actions">
-                <li><a href="/adatbazis?orszag=<%= encodeURIComponent(v.orszag) %>" class="button">Ajánlatok</a></li>
+            <li><a href="/adatbazis?helyseg=<%= v.az %>" class="button">Ajánlatok</a></li>
             </ul>
         </article>
     <% }) %>
